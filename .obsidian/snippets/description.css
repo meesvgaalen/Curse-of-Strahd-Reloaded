@@ -1,0 +1,13 @@
+.description {
+    border: 2px solid #FFB800; /* Adjust this hex code to match your preferred yellow */
+    border-radius: 15px;       /* Controls the roundness of the corners */
+    padding: 20px;            /* Space between the text and the border */
+    margin: 15px 0;           /* Space above and below the box */
+    background-color: transparent; /* Or use rgba(255, 184, 0, 0.05) for a faint tint */
+    line-height: 1.6;         /* Improves readability */
+}
+
+/* Optional: Targets the text inside if you want specific font styling */
+.description p {
+    margin: 0;
+}

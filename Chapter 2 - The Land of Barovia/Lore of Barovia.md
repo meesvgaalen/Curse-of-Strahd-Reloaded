@@ -1,17 +1,17 @@
 # Metaphysics & Magic
 The land of Barovia is a "demiplane"—a small, self-contained plane of existence. It is one of many Domains of Dread, which together occupy a small corner of the Shadowfell. 
 
-Like all of the Domains of Dread, Barovia is entrapped by the mists of Ravenloft, as described in <span class="citation">Mists of Ravenloft (p. 23)</span>, and ruled by the mysterious Dark Powers. The Dark Powers are nameless, shapeless entities that serve as the jailers of the "Darklords" of the Domains: evil individuals who have committed unspeakable crimes. Strahd von Zarovich is one such Darklord.
+Like all of the Domains of Dread, Barovia is entrapped by the mists of Ravenloft, as described in [[Mists of Ravenloft]] (0.23), and ruled by the mysterious Dark Powers. The Dark Powers are nameless, shapeless entities that serve as the jailers of the "Darklords" of the Domains: evil individuals who have committed unspeakable crimes. Strahd von Zarovich is one such Darklord.
 
 Precious few—including only archmages, scholars, and (at times) the Darklords themselves—know that the Dark Powers exist. Fewer still know of their true nature and origins. While the Dark Powers were born from the miasma of evil that dwells within the Amber Temple of Barovia, they are not themselves the vestiges—the non-sapient fragments of dead, malevolent gods—that are sealed within the sarcophagi of the temple. (For more information about the vestiges of the Amber Temple, see <span class="citation">The Amber Temple (p. 181)</span>.)
 
 The Dark Powers do not necessarily seek to corrupt those they encounter. Instead, for certain individuals, they seek to offer a choice between darkness and light—and to punish and ensnare those who fall to their temptations. In this adventure, two such individuals are Strahd von Zarovich and Ireena Kolyana.
 
-As described in <span class="citation">Mists of Ravenloft</span> and <span class="citation">Sunlight in Barovia (p. 23-24)</span>, the land of Barovia is surrounded by a deadly fog that engulfs any creature that tries to leave, and has not known the light of the sun in centuries. 
+As described in <span class="citation">[[Mists of Ravenloft]]</span> and <span class="citation">[[Sunlight in Barovia]] (p. 23-24)</span>, the land of Barovia is surrounded by a deadly fog that engulfs any creature that tries to leave, and has not known the light of the sun in centuries. 
 
-Spells cast in Barovia function as described in <span class="citation">Alterations to Magic</span>, and may be cosmetically modified in gruesome ways as described in <span class="citation">Cosmetic Spell Modifications (p. 24)</span>. While deities and patrons can still empower clerics and warlocks who make their way to Barovia, their ability to intervene directly—given the limited omnipotence of the Dark Powers within the Domains of Dread—is sorely limited.
+Spells cast in Barovia function as described in <span class="citation">[[Alterations to Magic]]</span>, and may be cosmetically modified in gruesome ways as described in <span class="citation">[[Alterations to Magic#Cosmetic Spell Modifications]] (p. 24)</span>. While deities and patrons can still empower clerics and warlocks who make their way to Barovia, their ability to intervene directly—given the limited omnipotence of the Dark Powers within the Domains of Dread—is sorely limited.
 # Geography
-The geography of Barovia is largely as described in <span class="citation">Lay of the Land (p. 23)</span> and <span class="citation">Areas of Barovia (p. 33)</span>. However, the winding slopes of Tsolenka Pass now house the hidden village of **Soldav**, an isolated settlement of Mountain Folk who reject the druids' decision to worship Strahd as a deity.
+The geography of Barovia is largely as described in <span class="citation">[[Lay of the Land]] (p. 23)</span> and <span class="citation">[[Areas of Barovia]] (p. 33)</span>. However, the winding slopes of Tsolenka Pass now house the hidden village of **Soldav**, an isolated settlement of Mountain Folk who reject the druids' decision to worship Strahd as a deity.
 
 # Weather
 Sunrise in Barovia is at 7:00 a.m. and sunset is at 5:00 p.m. each day. Additionally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. 
