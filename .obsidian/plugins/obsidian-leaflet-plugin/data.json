@@ -1,0 +1,578 @@
+{
+  "mapMarkers": [
+    {
+      "id": "barovia-map",
+      "locked": true,
+      "lastAccessed": 1785235211070,
+      "markers": [
+        {
+          "id": "ID_792aa9c94b88",
+          "type": "default",
+          "loc": [
+            4.830371408933153,
+            11.199285644531313
+          ],
+          "link": "Castle Ravenloft",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_484b0adae8ea",
+          "type": "default",
+          "loc": [
+            4.4796142578125,
+            14.932475905717094
+          ],
+          "link": "Old Svalich Road",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba48e839fb38",
+          "type": "default",
+          "loc": [
+            4.4249267578125,
+            14.533953261008932
+          ],
+          "link": "Gates of Barovia",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fadad9993ba8",
+          "type": "default",
+          "loc": [
+            5.7530517578125,
+            13.729093802088528
+          ],
+          "link": "Svalich Woods",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88e94bc9eba8",
+          "type": "default",
+          "loc": [
+            2.7921142578125,
+            12.306914952345675
+          ],
+          "link": "River Ivlis",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fba868aa1a69",
+          "type": "default",
+          "loc": [
+            3.9561767578125,
+            12.345985799866083
+          ],
+          "link": "Village of Barovia",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba086a8afbc8",
+          "type": "default",
+          "loc": [
+            2.8780517578125,
+            10.509655966406907
+          ],
+          "link": "River Ivlis Crossroads",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8481898fa5b",
+          "type": "default",
+          "loc": [
+            3.8936767578125,
+            10.290859220292623
+          ],
+          "link": "Tser Pool Encampment",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb7aea19c8ca",
+          "type": "default",
+          "loc": [
+            4.6593017578125,
+            9.095291286168136
+          ],
+          "link": "Tser Falls",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2989b8ca692b",
+          "type": "default",
+          "loc": [
+            5.1749267578125,
+            9.45474308335589
+          ],
+          "link": "Black Carriage",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa6bc978da1a",
+          "type": "default",
+          "loc": [
+            5.5108642578125,
+            9.298459693274259
+          ],
+          "link": "Gates of Barovia",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9cbba7b9aab",
+          "type": "default",
+          "loc": [
+            4.9718017578125,
+            10.634682678472213
+          ],
+          "link": "Gates of Ravenloft",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a6978898a68",
+          "type": "default",
+          "loc": [
+            7.5264892578125,
+            6.7129078487171085
+          ],
+          "link": "Lake Zarovich",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab88bb7b99bb",
+          "type": "default",
+          "loc": [
+            8.4093017578125,
+            5.040675574843646
+          ],
+          "link": "Mad Mage of Mount Baratok",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_799809c849cb",
+          "type": "default",
+          "loc": [
+            8.7999267578125,
+            6.337827712521192
+          ],
+          "link": "Mad Mage of Mount Baratok",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78196aca2b4b",
+          "type": "default",
+          "loc": [
+            8.4561767578125,
+            7.564652324662004
+          ],
+          "link": "Mad Mage of Mount Baratok",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b1aeba8dad9",
+          "type": "default",
+          "loc": [
+            8.5655517578125,
+            8.643007716225265
+          ],
+          "link": "Mad Mage of Mount Baratok",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a99e8cbfa8b",
+          "type": "default",
+          "loc": [
+            8.3858642578125,
+            9.221256259527305
+          ],
+          "link": "Mad Mage of Mount Baratok",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa999849daab",
+          "type": "default",
+          "loc": [
+            6.4796142578125,
+            6.228429339464049
+          ],
+          "link": "Town of Vallaki",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aada0b09ea3a",
+          "type": "default",
+          "loc": [
+            5.8389892578125,
+            7.642794019702819
+          ],
+          "link": "Old Bonegrinder",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9bd849d9abea",
+          "type": "default",
+          "loc": [
+            6.3546142578125,
+            5.462640728064052
+          ],
+          "link": "Luna River Crossroads",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cab8ab3b7869",
+          "type": "default",
+          "loc": [
+            5.1280517578125,
+            5.196958964925278
+          ],
+          "link": "Argynvostholt",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbaa98cb192a",
+          "type": "default",
+          "loc": [
+            6.6202392578125,
+            3.4465849960109995
+          ],
+          "link": "Raven River Crossroads",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b391a081ab9",
+          "type": "default",
+          "loc": [
+            6.9093017578125,
+            1.9462644512273322
+          ],
+          "link": "Village of Krezk",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa096ba87b89",
+          "type": "default",
+          "loc": [
+            2.5343017578125,
+            4.017581992684456
+          ],
+          "link": "Tsolenka Pass",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b4bca4b885a",
+          "type": "default",
+          "loc": [
+            3.9171142578125,
+            5.158449070776288
+          ],
+          "link": "Ruins of Berez",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f909c8884aea",
+          "type": "default",
+          "loc": [
+            7.2374267578125,
+            3.759712729545681
+          ],
+          "link": "Van Richten's Tower",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_986b1b8a7998",
+          "type": "default",
+          "loc": [
+            5.2843017578125,
+            1.7905420145171167
+          ],
+          "link": "The Wizards of Wines",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a0809ebfbba",
+          "type": "default",
+          "loc": [
+            1.5968017578125,
+            5.205197188466086
+          ],
+          "link": "The Amber Temple",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dad9ab886b29",
+          "type": "default",
+          "loc": [
+            3.7061767578125,
+            1.0872667591497738
+          ],
+          "link": "Yester Hill",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_583b59792a9b",
+          "type": "default",
+          "loc": [
+            7.6905517578125,
+            2.829828228064052
+          ],
+          "link": "Werewolf Den",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Kaart van Barovia.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

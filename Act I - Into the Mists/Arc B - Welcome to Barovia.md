@@ -16,16 +16,37 @@ The following morning, Ismark asks the players to help bring their father’s re
 The journey from [[Arc A - Escape From Death House#A3. Outside Death House|the tower]] to [[#B2. Gates of Barovia]] is two miles long and takes forty minutes.
 
 This scene unfolds as described in <span class="citation">Old Svalich Road (p. 33)</span>.
+>*Black pools of water stand like dark mirrors in and around the muddy roadway. Giant trees loom on both sides of the road, their branches clawing at the mist.*
+>
+>If the characters are walking along the road, they arrive at area B after 5 hours. If the characters are traveling in Vistani wagons, the travel time is halved.
 # B2. Gates of Barovia
 <span class="citation"><em>This scene takes place in Chapter 2: Area B.</em></span>
 
 This scene unfolds as described in <span class="citation">Gates of Barovia (p. 34)</span>.
+>Two sets of these gates exist: one west of the village of Barovia and one east of the village.
+>
+>*The fog spills out of the forest to swallow up the road behind you. Ahead, jutting from the impenetrable woods on both sides of the road, are high stone buttresses looming gray in the fog. Huge iron gates hang on the stonework. Dew clings with cold tenacity to the rusted bars. Two headless statues of armed guardians flank the gate, their heads now lying among the weeds at their feet. They greet you only with silence.*
+>
+>If the characters are traveling on foot, the gates swing open as they approach, screeching as the hinges move. The gates close behind the characters after they pass through. If the characters are riding in Vistani wagons. the gates open in front of the lead wagon and close when the rear one has entered. The eastern gates don't open for people trying to leave Strahd's domain unless they are accompanied by Vistani, The fog chokes any non-Vistani that passes through the gates or skirts around them when they are closed (see "Mists of Ravenloft" earlier in this chapter). If Strahd is defeated, the gates of Barovia swing open, and the road east becomes clear of fog.
 
 The journey from the Gates of Barovia to [[#B3. Svalich Woods]] is one-quarter mile long and takes five minutes.
 # B3. Svalich Woods
 <span class="citation"><em>This scene takes place in Chapter 2: Area C.</em></span>
 
-This scene begins as described in <span class="citation">Svalich Woods (p. 34)</span>. However, when the players find the corpse of Dalvan Olensky, he is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
+This scene begins as described in <span class="citation">Svalich Woods (p. 34)</span>.
+>*Towering trees, whose tops are lost in heavy gray mist, block out all but a death-gray light. The tree trunks are unnaturally close to one another, and the woods have the silence ofa forgotten grave, yet exude the feeling of an unvoiced scream.*
+>
+>If the characters are traveling in Vistani wagons, they can continue on to the village of Barovia (area E) with- out incident. If the characters are following the road on foot, the party member who has the highest passive Wisdom (Perception) score notices something:
+>
+>*You catch the scent of death on the air.*
+>
+>The character can follow the stench to its source:
+>
+>*The foul scent leads you to a human corpse half-bur. ied in the underbrush about fifteen feet from the road. The young man appears to be a commoner. His muddy clothes are torn and raked with brambles and loose thorns, Crows have been at the body. The man has obviously been dead for several days. He holds a tarnished copper compass in one hand.*
+>
+>The dead man, Dalvan Olensky, was trying to escape from Barovia with a letter from his master when he was killed on the road by Strahd's dire wolves. Wanting to return at once to Strahd, the wolves left the body in the woods but have not yet returned to feast. The letter in Dalvan's hand has a large "B" set into its wax seal. The parchment is worn and flimsy. If the characters open and read the letter, show the players "Kolyan Indirovich's Letter (Version 2)" in appendix F. The letter is dated one week ago. Dalvan was instructed to place the letter at the gates, in the hope that visitors would find it and turn back. If the characters linger in the woods, they hear a lone wolf howl far off in the forest. Each round, one more wolf adds its voice to the howling, with the sound getting progressively closer to the party. If the characters are still in the woods after 5 rounds of howling, five dire wolves arrive and attack. If the characters are trying to leave Barovia, these dire wolves are joined by a pack of twenty wolves. The wolves and the dire wolves stop their attack if the characters return to the road and head toward the village of Barovia (area E).
+
+However, when the players find the corpse of Dalvan Olensky, he is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
 
 Instead of the envelope, Dalvan is now holding an old, tarnished copper compass. While it remains close to the edge of the Barovian valley, its needle trembles strangely even when held still.
 
@@ -88,7 +109,26 @@ The journey from here to the outskirts of the village is two miles long and take
 > [!info]+ **The Fortified Village**
 > The village of Barovia has been heavily fortified to defend against Strahd’s nightly siege. Barricades composed of logs, planks, and broken furniture have been erected at every major entrance into the settlement, with additional obstructions raised in every alleyway or gap between the villagers’ homes. A trench has been dug around the village and planted with sharp stakes, and archers patrol the rooftops at all hours of day and night.
 ## B5a. The Barricade
-This scene largely unfolds as described in <span class="citation">Approaching the Village (p. 41)</span>. However, modify the description as follows:
+This scene largely unfolds as described in <span class="citation">Approaching the Village (p. 41)</span>.
+>When the characters first approach the village, read:
+>
+>*Tall shapes loom out of the dense fog that surrounds ev- erything. The muddy ground underfoot gives way to slick, wet cobblestones, The tall shapes become recognizable as village dwellings. The windows of each house stare out from pools of blackness. No sound cuts the silence except for mournful sobbing that echoes through the streets from a distance.*
+>
+>The sobbing comes from Mad Mary's townhouse (area E3). With the exception of areas El and E2, all the shops in the village are permanently closed, and the un- occupied shops have been looted of anything valuable. Claw marks cover most of the walls. When the fog eventually burns off, Castle Ravenloft looms over the village, like a lance piercing the sky.
+>
+>HOUSE OCCUPANTS
+>If the characters explore a residence other than Mad Mary's townhouse (area E3) or the burgomaster's man- Sion (area E4), roll a d20 and consult the following table to determine the house's occupants.
+>
+>RATS
+>A house infested with rats looks abandoned. The rats are servants of Strahd and attack if the characters ex- plore the interior of the house.
+>
+>BAROVIAN VILLAGERS
+>A house of Barovian villagers is home to ld4 adults (LG male and female human commoners) and ld8 — 1 chil- dren (LG male and female noncombatants). Characters who listen at the door hear low, muffled whispers from within. These villagers aren't interested in speaking with strangers and never attack first, always fleeing from danger if possible. At night they cower by candle- light and keep makeshift holy symbols close at hand.
+>
+>STRAHD ZOMBIES
+>When the characters open a door or a shuttered win- dow of a house infested with Strahd zombies, they are assailed by the stench of death. If the characters dare to enter, the zombies converge on their location.
+
+However, modify the description as follows:
 
 <div class="description">
 <p>As the morning deepens, the overcast skies brightening to a dull, gloomy grey, the outskirts of the village come into clearer view. A wide dirt trench surrounds the settlement, five feet across and just as deep, with hundreds of sharpened wooden stakes thrusting up like jagged teeth from the earth within. Up ahead, beside a tall heap of charred wood, the road continues over a makeshift wooden bridge, the muddy ground beyond giving way to slick, wet cobblestones.</p>
@@ -135,6 +175,13 @@ If the players agree, Muriel follows them to the town square, staying aloft in t
 > [!abstract]+ **The Raven**
 > Ismark doesn’t know that the blue-winged raven is a wereraven, and doesn’t know whether anyone has given it a name. He believes the raven’s presence is a good omen, however, and can share the superstition about ravens described in <span class="citation">Beliefs and Superstitions (p. 28)</span>. (This superstition is shared by all Barovians, not just Vistani.)
 
+>The Vistani have deep-rooted beliefs and superstitions that they pass down from one generation to the next:
+>- The souls of those who die in Barovia can't escape to the afterlife. They are prisoners in Strahd's domain.
+>- Some Vistani women are blessed with prescience. Of all the great Vistani fortune-tellers, none compares to Madam Eva. If knowledge of the future is what you seek, Madam Eva will tell you your fate.
+>- A prescient Vistana can't see her own future or the future of another Vistana. It is the burden of the Vistani's great gift that their own fates can't be divined.
+>- Vistani curses are potent, but they are invoked with great caution. Vistani know that to curse one who is undeserving of such punishment can have grave con- sequences for the one who utters such a curse.
+>- Ravens carry lost souls within them, so killing one is bad luck. (The ravens don't carry souls within.)
+
 > [!design]+ **Design Note: Entering the Village**
 > This scene has been written to immediately convey the villagers’ wariness, establish Ismark as a sympathetic ally, and introduce the **wereraven** Muriel Vinshaw and the ravens of Barovia, thereby foreshadowing the Keepers of the Feather. 
 >
@@ -148,6 +195,9 @@ As the players and Ismark pass through the village streets, read:
 </div>
 
 Add the description of the exterior of the Blood of the Vine Tavern, given in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>.
+>*A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs pree cariously askew, proclaiming this to be the Blood on the Vine tavern.*
+>
+>The tavern building is about 60 feet square. Close in. spection of the sign reveals that it originally read "Blood of the Vine." (An "n" has been scratched over with the "f." ) This once finely appointed tavern has grown shoddy over the years. A blazing fire in the hearth gives scant warmth to the few huddled souls within. They include the barkeep, three Vistani sitting together, and a man named Ismark Kolyanovich—who happens to be the son Of the village burgomaster, Kolyan Indirovich.
 
 The tents host the village’s elderly, sick, and children, who have been gathered here as a fortification of last resort. The statue bears a weather-worn plaque at its base, which reads: “ISMARK ANTONOVICH THE GREAT. Burgomaster of Barovia. Bane of Vampires. 618—662 B.C." (“B.C." stands for “Barovian Calendar.") 
 ![[Ismark the Great.png]]
@@ -170,7 +220,10 @@ Ismark can share the following information:
 * Six nights ago, Strahd’s undead forces began attacking the town. Each night, the Barovians beat back multiple waves of the dead—and each night, the horde comes ever-closer to breaching the village’s defenses.
 * Many Barovians fear that the village is doomed. The undead have infested the woods to the north, west, and south, blocking the Old Svalich Road just past the Ivlis River. With the Mists blocking passage to the east, the village has been effectively cut off from the world, left to survive on its own—or perish.
 
-[[Non-Player Characters#Ismark Kolyanovich|Ismark]] can also share the village’s recent history, as well as most of the information in <span class="citation">Roleplaying Ismark (p. 43)</span> and <span class="citation">Barovian Lore (p. 26)</span>. However, Ismark doesn't mention a "mad wizard" and he doesn't suggest that the Vistani serve Strahd. (Note that Ismark’s father, Burgomaster Kolyan Indirovich, is still alive—albeit wounded—in the burgomaster’s mansion, and Ismark’s sister, Ireena Kolyana, hasn’t yet been bitten by Strahd.)
+[[Non-Player Characters#Ismark Kolyanovich|Ismark]] can also share the village’s recent history, as well as most of the information in <span class="citation">Roleplaying Ismark (p. 43)</span> and <span class="citation">[[Barovian Lore]] (p. 26)</span>.
+>Ismark (LG male human veteran) is a young man who sits by himself at a corner table, sipping his wine. Other villagers call him "Ismark the Lesser" because he has lived in the shadow of his father for most of his life. Ismark isn't a typically dour Barovian. He invites the characters to join him, offers to pay for their wine, and asks for their aid in protecting his adopted sister, Ireena Kolyana. If they agree to help, he takes them to the bur. gomaster's residence (area E4). He wants the characters to help him escort Ireena to Vallaki, a settlement in the heart of the valley, beyond the view of Castle Ravenloft and (he hopes) beyond the reach of Strahd. Ismark knows that moving Ireena is a gamble, since she's vul- nerable to Strahd when she is outside their home, but he has heard assertions that Vallaki is well defended. Ismark is as tight-lipped as any of the other Barovian villagers, unless the talk deals with Ireena or Strahd. Ismark knows everything the other villagers know. He also knows that, for some unknown reason, Strahd is attracted to Ireena and desires her above all others. If you used the "Plea for Help" adventure hook and the characters show Ismark the letter they received, he knows the burgomaster's handwriting well enough to confirm that the letter was not written by his father. Ismark has spent most of his adult life training with weapons in the hope of one day confronting and killing the Strahd. If the characters suggest that he accompany them, Ismark agrees provided that Ireena is first taken to a place of safety. As long as Ismark accompanies the characters, he acts as a party member for the purpose of determining each character's share of experience points (though he gains no experience points himself).
+
+However, Ismark doesn't mention a "mad wizard" and he doesn't suggest that the Vistani serve Strahd. (Note that Ismark’s father, Burgomaster Kolyan Indirovich, is still alive—albeit wounded—in the burgomaster’s mansion, and Ismark’s sister, Ireena Kolyana, hasn’t yet been bitten by Strahd.)
 ### Bildrath's Fury
 Shortly after Ismark begins answering the players' questions, read:
 
@@ -241,7 +294,17 @@ If the players agree to aid in the town’s defense, Ismark is deeply grateful. 
 
 Once the players have retrieved the crate of fire bottles and had an opportunity to rest at the manor, Ismark tells them, they should take the fire bottles to the eastern barricade—the place where they first entered the village—where they’ll be stationed throughout the night.
 ## B5d. The Burgomaster’s Mansion
-This area is largely as described in <span class="citation">Burgomaster’s Mansion (p. 44)</span>. However, Burgomaster Kolyan Indirovich has not yet been killed, and Ireena hasn’t yet been bitten.
+This area is largely as described in <span class="citation">Burgomaster’s Mansion (p. 44)</span>. 
+>*A weary-looking mansion squats behind a rusting iron fence. The iron gates are twisted and torn. The right gate lies cast aside, while the left swings lazily in the wind. The stuttering squeal and clang of the gate repeats with mindless precision. Weeds choke the grounds and press with menace upon the house itself. Yet, against the walls, the growth has been tramped down to create a path all about the domain. Heavy claw markings have stripped the once-beautiful finish of the walls. Creat black marks tell of the fires that have assailed the mansion. Not a pane nor a shard of glass stands in any window. All the windows are barred with planks, each one marked with stains of evil omen.*
+>
+>Characters who survey the grounds can, with a success• ful DC 11 Wisdom (Perception) check, discern trampled weeds all around the mansion as well as scores of wolf paw prints and human footprints. The footprints were made by zombies and ghouls under Strahd's control. Ireena Kolyana (LG female human noble with 14 hit points), the adopted daughter of the burgomaster, is inside the mansion and won't open the heavily barred door to anyone unless she is convinced that those out- side her door have no allegiance to Strahd. If the char- acters convince her, either with good roleplaying or a successful DC 15 Charisma (Deception or Persuasion) check, or if Ismark is with them, she opens the door and invites them in. If the characters enter the mansion, read:
+>
+>*The interior of the mansion is well furnished, yet the fixtures show signs of great wear. Noticeable oddities are the boarded-up windows and the presence of holy sym. bols in every room. The burgomaster is in a side drawing room on the floor—lying in a simple wooden cofin sur. rounded by wilting flowers and a faint odor of decay,*
+>
+>Ismark and Ireena made the coffin themselves.
+
+
+However, Burgomaster Kolyan Indirovich has not yet been killed, and Ireena hasn’t yet been bitten.
 ### The Angry Mob
 When the players arrive, they find a mob of ten Barovian **commoners** has formed outside of the mansion. Add the following to the end of this area’s description:
 
