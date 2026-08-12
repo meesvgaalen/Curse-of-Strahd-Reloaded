@@ -61,29 +61,17 @@ One by one, the players’ relics then react as follows, in the following order.
 If the players give chase, read:
 
 <div class="description">
-<p>You emerge from the hayloft into the swirling mists beyond, the stones of Daggerford's streets slick and gleaming beneath your feet. The city’s laughter and cheer is now but a hollow echo, the brightness of its revelry drowned in the fog that encircles you. The taste of the cold, damp air is sharp on your tongue, and the sound of your own breath loud in your ears.</p>
-<p>Your relics call you forward, the mists parting to make way. You move slowly at first, then faster, your hearts pounding in your chest. As you venture deeper into the fog, each step you make feels heavier, each echo of thunder a beat in this relentless march.</p>
-<p>The fog swallows the town, buildings reduced to looming shadows, their shapes dancing and flickering in the storm's sporadic flashes of lightning. Rain drums a relentless rhythm, the patter of drops on cobblestone accompanying the distant, mournful peal of thunder. For brief moments, you can feel something else beneath your feet: the steady pounding of a deep and distant heartbeat.</p>
-<p>You're pulled left, then right, then left again, the relics guiding you through the murky labyrinth. Distance and direction have lost all meaning, the shadows around you contorting in twisted shapes. Your blood sings in your ears, and the air grows denser, electric, as the energy of the storm—of the chase—swells with reckless abandon.</p>
-<p>And then—the pounding stops.</p>
-<p>The thunder pauses.</p>
-<p>And the mist breaks.</p>
-<p>The fog pulls back like a curtain, revealing a tall, eerie silhouette that towers in the gloom before you.</p>
+<p>Je komt vanuit de hooizolder tevoorschijn in de wervelende mist die zich daarbuiten uitstrekt; de stenen van de straten van Daggerford zijn glad en glanzen onder je voeten. Het gelach en gejuich van de stad is nu slechts een holle echo; de helderheid van het feestgedruis gaat ten onder in de mist die je omringt. De smaak van de koude, vochtige lucht prikt scherp op je tong, en het geluid van je eigen ademhaling klinkt luid in je oren.</p>
+<p>Je relics roepen je vooruit, de mist gaat opzij om plaats te maken. Eerst beweeg je langzaam, daarna sneller, je hart bonkt in je borst. Naarmate je dieper de mist in trekt, voelt elke stap zwaarder aan, elke echo van de donder een hartslag in deze meedogenloze mars.</p>
+<p>De mist slokt de stad op; gebouwen zijn gereduceerd tot dreigende schaduwen, hun contouren dansen en flikkeren in de sporadische bliksemflitsen van de storm. De regen trommelt een meedogenloos ritme, het getik van druppels op de kasseien begeleidt het verre, treurige gerommel van de donder. Even voel je iets anders onder je voeten: het gestage bonzen van een diepe, verre hartslag.</p>
+<p>Je wordt naar links getrokken, dan naar rechts, dan weer naar links; de overblijfselen leiden je door het troebele labyrint. Afstand en richting hebben alle betekenis verloren; de schaduwen om je heen vervormen zich tot verwrongen figuren. Je bloed zingt in je oren en de lucht wordt dichter, elektrisch, terwijl de energie van de storm – van de achtervolging – met roekeloze overgave aanzwelt.</p>
+<p>En dan – houdt het bonzen op.</p>
+<p>De donder zwijgt even.</p>
+<p>En de mist trekt op.</p>
+<p>De mist trekt zich terug als een gordijn en onthult een hoog, griezelig silhouet dat in de schemering voor je uittorent.</p>
 </div>
 
 This is **Death House.**
-# A2. Death House
-If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Lost in the Mists]] hook, read the following text. Otherwise, proceed to [[#A2a. The Arrival]] below.
-
-<div class="description">
-<p>Highharvesttide in Daggerford. It’s a time of joy and celebration, of hearth and home, of golden laughter ringing out into the night. But tonight, as a storm has swept over the town, you find yourselves apart from the warmth and revelry, drawn into the cold, dark embrace of mystery.</p>
-<p>As mercenaries, you're no strangers to danger or the unknown. But this—this is different. Over the past few weeks, whispers have spread throughout Daggerford of disappearances: ordinary folk, vanished without a trace.</p>
-<p>The only connection? A grand, old manor, known in hushed tones as “Death House.”</p>
-<p>Tonight, as the storm rages outside, you've been summoned to investigate this mysterious dwelling. The town crier’s proclamation still echoes in your ears, a bounty for any brave souls who dare to uncover the truth. Driven by a mix of greed, curiosity, and perhaps a touch of bravado, you stepped forward.</p>
-<p>Now, guided by the faint glow of your lanterns, you traverse the slick, fog-shrouded cobblestone streets. The distant merriment is a stark contrast to the eerie quiet around you. The world has been reduced to hushed whispers and the steady drumming of rain, a somber serenade to your perilous journey.</p>
-<p>And then, as if answering an unspoken summons, the mists before you part, revealing the grim silhouette of your destination: the “Death House.” Its dark, stone façade and towering spires loom ominously against the storm-tossed sky, a wordless challenge against your resolve.</p>
-</div>
-
 ## A2a. The Arrival
 ### Entrance
 <span class="citation"><em>This scene takes place in Appendix B: Area 1.</em></span>
@@ -91,11 +79,11 @@ If one or more of your players are using the [[Running the Adventure#Adventure H
 Read all players the following text:
 
 <div class=description>
-<p>A grand manor stands before you, four stories of cold, soot-stained stone, tall narrow windows, and high peaked roofs forming a picture of austere, chilling grandeur. Midway up, a narrow balcony juts out from the third floor, offering a grim perch from which to survey the surrounding grounds.</p>
-<p>The centerpiece of this imposing facade is the portico, a stone arch standing sentinel before the house's oaken doors. A wrought-iron gate fills this arch, its rusty hinges creaking as it sways in the wind.</p>
-<p>On either side of the gate, oil lamps hang from chains, their light dim and flickering, casting a sickly glow that barely pierces the surrounding fog.</p>
-<p>Beyond the gate, a set of sturdy oaken doors stand closed, framed by the gate and the lamps. The doors are old and weathered, their wood darkened by time, but they stand strong and proud—an unwelcome entrance to the house beyond.</p>
-<p>A gust of wind sweeps past you, carrying with it a whisper of cold dread that sends shivers down your spine.</p>
+<p>Voor je staat een statig landhuis: vier verdiepingen van koud, met roet bevlekt steen, hoge smalle ramen en hoge puntdaken die een beeld vormen van sobere, huiveringwekkende grandeur. Halverwege de hoogte steekt er een smal balkon uit de derde verdieping, dat een grimmige uitkijkplek biedt van waaruit je het omliggende terrein kunt overzien.</p>
+<p>Het middelpunt van deze imposante gevel is de portiek, een stenen boog die als een wachtpost voor de eikenhouten deuren van het huis staat. Een smeedijzeren hek vult deze boog; de roestige scharnieren kraken terwijl het heen en weer zwaait in de wind.</p>
+<p>Aan weerszijden van het hek hangen olielampen aan kettingen; hun licht is zwak en flikkerend en werpt een ziekelijke gloed die de omringende mist nauwelijks doorbreekt.</p>
+<p>Achter de poort staan een paar stevige eikenhouten deuren dicht, omlijst door de poort en de lampen. De deuren zijn oud en verweerd, het hout is donker geworden door de tijd, maar ze staan sterk en trots – een onwelkome toegang tot het huis daarachter.</p>
+<p>Een windvlaag raast langs je heen en brengt een vleugje koude angst met zich mee die je rillingen over de rug bezorgt.</p>
 </div>
 
 Any players who began with the ***Barovian Relics*** hook can now see the players who began with the ***Lost in the Mists*** hook, and vice-versa. (If any of the players’ relics flew or rolled to Death House—as with the ***wanderer’s scarf*** or the ***electrum coin***—they land on the house’s threshold, just beyond the portico.) The street is otherwise deserted.
@@ -112,6 +100,10 @@ The entrance beyond the portico is otherwise as described in <span class="citati
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
 
 When the players pass through Death House’s threshold, any Barovian relics they carry cease to be active. (For example, the *sunrise medallion* ceases to glow.)
+
+<div class="description">
+Een brede hal strekt zich uit over de gehele breedte van het huis, met aan de ene kant een open haard van zwart marmer en aan de andere kant een weidse trap van rood marmer. Aan de voet van deze trap staat een prachtig gedetailleerde staande klok. Boven de open haard hangt een schilderij aan de muur. De met hout beklede muren zijn rijkelijk versierd met afbeeldingen van wijnranken, bloemen, nimfen en satyrs.
+</div>
 
 The main hall is largely as described in <span class="citation">Main Hall (p. 212)</span> but now contains a grandfather clock, which is placed in the circular space at the base of the stairs.
 > A wide hall (area 2A) runs the width of the house, with a black marble fireplace at one end and a sweeping, red marble staircase at the other. At the base of this staircase stands a beautifully detailed grandfather clock. Mounted on the wall above the fireplace is a painting. The wood-paneled walls are ornately sculpted with images of vines, flowers, nymphs, and satyrs. 
@@ -175,8 +167,13 @@ The grandfather clock then strikes six o’clock.
 A player who opens any outside-facing door or curtain in Death House, or who exits onto any balcony, finds that the exterior of the house has been surrounded by thick, fleshy tendrils. Although the tendrils can be damaged, more grow back swiftly to replace them, sealing the players inside. A player who inspects the tendrils finds that they appear to be extruding from beneath the house.
 ## A2b. The First Floor
 ### Cloakroom
+<div class="description">
+<p>In de garderobe hangen verschillende zwarte mantels aan haken aan de muren. Op een hoge plank staat een hoge hoed.</p>
+</div>
+
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
->A cloakroom (area 2B) has several black cloaks hanging from hooks on the walls. A top hat sits on a high shelf.
+
+> A cloakroom (area 2B) has several black cloaks hanging from hooks on the walls. A top hat sits on a high shelf.
 
 A player who investigates the cloakroom adjoining the Main Hall can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
 
@@ -211,15 +208,15 @@ This room is largely as described in <span class="citation">Den of Wolves (p. 21
 As the players enter this room, read:
 
 <div class="description">
-<p>As you crack the door to this room open, you catch a glimpse of something feral beyond: an amber eye that flashes in the darkness, and a bestial muzzle curled into a snarl.</p>
+<p>Als je de deur van deze kamer op een kier zet, vang je een glimp op van iets wilds daarachter: een amberkleurig oog dat in de duisternis opflitst, en een beestachtige snuit die tot een grom is getrokken.</p>
 </div>
 
 If the players proceed, read:
 
 <div class="description">
-<p>The door cracks open, revealing a gray-furred wolf frozen into place. It's only a moment before you realize that it's not moving—and another before you realize that it's not alone.</p>
-<p>This oak-paneled room looks like a hunter's den. Mounted above the fireplace is a stag's head, and positioned around the outskirts of the room are two additional stuffed wolves—a large gray wolf and a smaller brown wolf.</p>
-<p>Two padded chairs draped in animal furs face a hearth, with an oak table between them supporting an assortment of objects. A chandelier hangs above a cloth-covered table surrounded by four chairs, and two cabinets stand against the walls. A pair of small toys seems to have been forgotten beneath one of the chairs.</p>
+<p>De deur zwaait een stukje open en onthult een wolf met grijze vacht die als aan de grond genageld staat. Het duurt maar even voordat je beseft dat hij niet beweegt – en nog een moment voordat je doorhebt dat hij niet alleen is.</p>
+<p>Deze met eikenhout beklede kamer ziet eruit als een jagershol. Boven de open haard hangt een hertenkop, en langs de randen van de kamer staan nog twee opgezette wolven: een grote grijze wolf en een kleinere bruine wolf.</p>
+<p>Twee met dierenvachten beklede stoelen staan tegenover de open haard, met daartussen een eikenhouten tafel waarop allerlei voorwerpen staan. Boven een met een tafelkleed bedekte tafel, omringd door vier stoelen, hangt een kroonluchter, en tegen de muren staan twee kasten. Onder een van de stoelen lijkt een paar kleine speelgoedfiguren te zijn achtergelaten.</p>
 </div>
 
 The discarded toys are small, plush gray wolves, whose threadbare coats show evidence of heavy mending and patchwork. Clumsy stitchwork on their stomachs reads ROSE and THORN, respectively.
@@ -240,9 +237,9 @@ This room is largely as described in <span class="citation">Dining Room (p. 213)
 When the players enter it, read:
 
 <div class="description">
-<p>You enter into a wood-paneled dining room. The centerpiece is a carved mahogany table surrounded by eight high-backed chairs with sculpted armrests and cushioned seats. A crystal chandelier hangs above the table, which is set with resplendent silverware and crystal glasses polished to a dazzling shine. Mounted above the marble fireplace is a mahogany-framed painting of an alpine vale.</p>
-<p>The wall paneling is carved with elegant images of deer among the trees. Red silk drapes cover the windows, and a tapestry hangs from an iron rod bolted to the south wall.</p>
-<p>The table groans beneath the weight of a delicious-looking feast. Exquisite dishes lay on grand platters: succulent roasted poultry glazed with a shimmering honey sauce, perfectly grilled cuts of beef still steaming lightly, a variety of cheeses and fresh fruits, and freshly baked breads giving off a comforting aroma. </p>
+<p>Je komt binnen in een met hout beklede eetkamer. Het middelpunt wordt gevormd door een bewerkte mahoniehouten tafel, omringd door acht stoelen met hoge rugleuningen, gebeeldhouwde armleuningen en beklede zittingen. Boven de tafel hangt een kristallen kroonluchter; de tafel is gedekt met schitterend zilverwerk en kristallen glazen die tot een oogverblindende glans zijn gepolijst. Boven de marmeren open haard hangt een schilderij in een mahoniehouten lijst dat een alpenvallei afbeeldt.</p>
+<p>In de houten panelen zijn elegante afbeeldingen van herten tussen de bomen uitgehouwen. Rode zijden gordijnen bedekken de ramen, en aan een ijzeren stang die aan de zuidelijke muur is vastgeschroefd, hangt een wandtapijt.</p>
+<p>De tafel buigt door onder het gewicht van een heerlijk ogend feestmaal. Op grote schalen liggen voortreffelijke gerechten: sappig geroosterd gevogelte geglazuurd met een glanzende honingsaus, perfect gegrilde stukken rundvlees die nog lichtjes dampen, een verscheidenheid aan kazen en vers fruit, en versgebakken brood dat een geruststellende geur verspreidt. </p>
 </div>
 
 A player who partakes in the food suffers no ill effects.
@@ -253,13 +250,13 @@ This room is largely as described in <span class="citation">Kitchen and Pantry (
 >The kitchen (area 4A) is tidy, with dishware, cookware, and utensils neatly placed on shelves. A worktable has a cutting board and rolling pin atop it. A stone, dome- shaped oven stands near the east wall, its bent iron stovepipe connecting to a hole in the ceiling. Behind the stove and to the left is a thin door leading to a well- stocked pantry (area 4B). All the food in the pantry appears fresh but tastes bland.
 >
 >DUMBWAITER
->Behind a small door in the southwest corner of the kitchen is a dumbwaiter—a 2-foot-wide stone shaft containing a wooden elevator box attached to a simple rope- and-pulley mechanism that must be operated manually. The shaft connects to areas 7A (the servants' quarters) and 12A (the master bedroom). Hanging on the wall next to the dumbwaiter is a tiny brass bell attached by wires to buttons in those other areas. A Small character can squeeze into the elevator box with a successful DC 10 Dexterity (Acrobatics) check. The dumbwaiter's rope-and-pulley mechanism can sup- port 200 pounds of weight before breaking.
+>Behind a small door in the southwest corner of the kitchen is a dumbwaiter—a 2-foot-wide stone shaft containing a wooden elevator box attached to a simple rope- and-pulley mechanism that must be operated manually. The shaft connects to areas 7A (the servants' quarters) and 12A (the master bedroom). Hanging on the wall next to the dumbwaiter is a tiny brass bell attached by wires to buttons in those other areas. A Small character can squeeze into the elevator box with a successful DC 10 Dexterity (Acrobatics) check. The dumbwaiter's rope-and-pulley mechanism can support 200 pounds of weight before breaking.
 
 When the players enter this room, read:
 
 <div class="description">
-<p>You enter a tidy kitchen, with dishware, cookware, and utensils neatly placed on shelves. A worktable has a cutting board and rolling pin atop it. A stone, dome-shaped oven stands near the east wall, its bent iron stovepipe connecting to a hole in the ceiling. Behind the stove and to the left is a thin door.</p>
-<p>In the front right-hand corner of the room stands a small wooden door set into the wall.</p>
+<p>Je komt in een opgeruimde keuken, waar serviesgoed, kookgerei en keukengerei netjes op de planken staan. Op een werktafel liggen een snijplank en een deegroller. Tegen de oostelijke muur staat een stenen, koepelvormige oven, waarvan de gebogen ijzeren schoorsteenpijp uitkomt in een opening in het plafond. Achter de kachel, aan de linkerkant, bevindt zich een smalle deur.</p>
+<p>In de rechtervoorhoek van de kamer bevindt zich een kleine houten deur die in de muur is ingebouwd.</p>
 </div>
 
 If the players inspect the cookware, they find that the largest kitchen knife is missing.
@@ -286,9 +283,10 @@ This room is largely as described in <span class="citation">Upper Hall (p. 213)<
 When the players enter this room, read:
 
 <div class="description">
-<p>Unlit oil lamps are mounted on the walls of this elegant hall. Hanging above the mantelpiece is a longsword with a windmill cameo worked into the hilt.</p>
-<p>Standing suits of armor flank wooden doors in the east and west walls. Each suit of armor clutches a spear and has a visored helm shaped like a wolf's head. The doors between them are carved with images of dancing youths.</p>
-<p>The red marble staircase continues its upward spiral to a third floor, a cold draft whispering down from above.</p>
+<p>Aan de muren van deze elegante zaal hangen onontstoken olielampen. Boven de schoorsteenmantel hangt een langzwaard met een camee van een windmolen die in het handvat is verwerkt.</p>
+<p>Staande harnassen flankeren houten deuren in de oost- en westmuur. Elk harnas houdt een speer vast en heeft een helm met vizier in de vorm van een wolvenkop. Op de deuren ertussen zijn afbeeldingen van dansende jongeren uitgehouwen.</p>
+<p>De rode marmeren trap slingert zich verder omhoog naar de derde verdieping, terwijl er van bovenaf een koude tocht naar beneden waait.</p>
+
 </div>
 
 ### Servants’ Room
@@ -303,8 +301,9 @@ This room is largely as described in <span class="citation">Servants’ Room (p.
 When the players enter this room, read:
 
 <div class="description">
-<p>This undecorated bedroom contains a pair of beds with straw-stuffed mattresses. At the foot of each bed is a closed foot locker. A door to the left appears to lead to a closet.</p>
-<p>In the right-hand corner stands a small wooden door, a metal button set into the wall beside it. A basket full of unwashed laundry appears to have been left beside it.</p>
+<p>Deze onopgesmukte slaapkamer bevat twee bedden met matrassen gevuld met stro. Aan het voeteneinde van elk bed staat een gesloten opbergkist. Een deur aan de linkerkant lijkt naar een kast te leiden.</p>
+<p>In de rechterhoek staat een kleine houten deur, met daarnaast een metalen knop in de muur. Er lijkt een mand vol ongewassen was naast te zijn achtergelaten.</p>
+
 </div>
 
 The basket contains a man's laundry, including fine suits, tunics, neckties, pants, and stockings. However, a single, much-smaller woman's slip appears to have been mixed in with the rest.
@@ -319,8 +318,9 @@ This room is largely as described in <span class="citation">Conservatory (p. 214
 When the players enter it, read:
 
 <div class="description">
-<p>You enter into an elegantly appointed hall, the windows of which are covered by gossamer drapes. A brass-plated chandelier hangs from the ceiling, and upholstered chairs line the walls. </p>
-<p>Several stained-glass wall hangings depict beautiful men, women, and children singing and playing instruments. A harpsichord with a bench rests in the northwest corner. Near the fireplace is a large standing harp. Alabaster figurines of well-dressed dancers adorn the mantelpiece. </p>
+<p>Je komt binnen in een elegant ingerichte zaal, waarvan de ramen zijn bedekt met ragfijne gordijnen. Aan het plafond hangt een met messing beklede kroonluchter en langs de muren staan gestoffeerde stoelen opgesteld. </p>
+<p>Verschillende wandkleden van gebrandschilderd glas tonen prachtige mannen, vrouwen en kinderen die zingen en muziekinstrumenten bespelen. In de noordwestelijke hoek staat een klavecimbel met een bankje. Bij de open haard staat een grote staande harp. Op de schoorsteenmantel staan albasten beeldjes van fraai geklede dansers. </p>
+
 </div>
 
 ***The Harpsichord.*** A player who inspects the harpsichord finds that one of the keys appears to be permanently pressed in the "down" position. A player who investigates the interior of the harpsichord finds the cause: a rolled-up piece of parchment tucked beneath one of the strings. 
@@ -328,11 +328,11 @@ When the players enter it, read:
 The parchment is a piece of handwritten sheet music for the harpsichord titled *Waltz for Klara*. If the sheet music is played on the harpsichord, read:
 
 <div class="description">
-<p>As you press your fingers to the keys, the notes echo, a haunting melody filling the quiet, dusty room. As you continue to play, the music seems to take on a life of its own, your hands moving across the keys unbidden as if guided by an unseen force.</p>
-<p>From the edges of the room, spectral figures begin to materialize, spinning and weaving in a ghostly dance as though led by the song. Most are unfamiliar to you, but you recognize two: Elisabeth Durst, in the corner, watching Gustav's apparition dancing with a beautiful young woman wearing humble clothes.</p>
-<p>The eyes of Elisabeth's apparition narrow into a cold, furious stare. The dancers pay her little heed, however, the song growing faster as the spirits whirl to the rhythm of the harpsichord's crescendo.</p>
-<p>With a swift movement, Elisabeth reaches for a pendant around her spectral neck—a shimmering amber shard hung on a cord of ethereal mist. As her ghostly fist curls around it, her eyes flash a bright, menacing amber—and the spectral dancers dissipate, swept away as if by an unseen wind.</p>
-<p>Elisabeth's apparition lingers but a moment longer before disappearing with the rest. As it does, a sound resonates through the room: the low sound of scraping wood, originating from the room across the hall. The floor trembles faintly—and you hear a crash from the mantelpiece. Two of the alabaster figurines have fallen from their place on the shelf: one, toppled over on its side; the other, shattered across the floor.</p>
+<p>Terwijl je je vingers op de toetsen drukt, weerklinken de noten en vult een beklijvende melodie de stille, stoffige kamer. Naarmate je verder speelt, lijkt de muziek een eigen leven te gaan leiden; je handen bewegen als vanzelf over de toetsen, alsof ze door een onzichtbare kracht worden geleid.</p>
+<p>Vanaf de randen van de kamer beginnen spookachtige gestalten zich te materialiseren; ze draaien en slingeren in een spookachtige dans, alsof ze door het lied worden geleid. De meesten zijn je onbekend, maar je herkent er twee: Elisabeth Durst, in de hoek, die toekijkt hoe de verschijning van Gustav danst met een mooie jonge vrouw in eenvoudige kleding.</p>
+<p>De ogen van Elisabeths verschijning vernauwen zich tot een koude, woedende blik. De dansers schenken haar echter weinig aandacht; het lied wordt steeds sneller terwijl de geesten rondwervelen op het ritme van het crescendo van de klavecimbel.</p>
+<p>Met een snelle beweging reikt Elisabeth naar een hanger om haar spookachtige nek – een glinsterend stukje amber, opgehangen aan een koord van etherische mist. Terwijl haar spookachtige vuist zich eromheen krult, flitsen haar ogen helder, dreigend amberkleurig – en de spookachtige dansers verdwijnen, weggevaagd alsof door een onzichtbare wind.</p>
+<p>Elisabeths verschijning blijft nog even hangen voordat ze samen met de rest verdwijnt. Op dat moment weerklinkt er een geluid door de kamer: het zachte geluid van schrapend hout, afkomstig uit de kamer aan de overkant van de hal. De vloer trilt lichtjes – en je hoort een klap vanaf de schoorsteenmantel. Twee van de albasten beeldjes zijn van hun plek op de plank gevallen: het ene is op zijn kant omgevallen; het andere, kapotgebroken op de vloer</p>
 </div>
 
 A player who inspects the fallen figurines finds that the toppled figurine has cracked across its face, arms, and torso, and depicts a young and slender female dancer. The shattered figurine has broken into dozens of pieces, and appears to have once depicted a comely, older man. A third, female dancer figurine remains defiantly standing atop the mantelpiece where all three once stood.
@@ -350,8 +350,8 @@ This room is largely as described in <span class="citation">Library (p. 213-14)<
 When the players enter this room, read:
 
 <div class="description">
-<p>Red velvet drapes cover the windows of this room. An exquisite mahogany desk and a matching high-back chair face the entrance and the fireplace, above which hangs a framed picture of a windmill perched atop a rocky crag. Situated in corners of the room are two overstuffed chairs. </p>
-<p>Floor-to-ceiling bookshelves line the south wall. A rolling wooden ladder allows one to more easily reach the high shelves.</p>
+<p>De ramen van deze kamer zijn bekleed met rode fluwelen gordijnen. Een prachtig mahoniehouten bureau en een bijpassende stoel met hoge rugleuning staan gericht naar de ingang en de open haard, waarboven een ingelijste afbeelding hangt van een windmolen die bovenop een rotsachtige klif staat. In de hoeken van de kamer staan twee zacht gestoffeerde fauteuils. </p>
+<p>Langs de zuidelijke muur staan boekenkasten die reiken van de vloer tot aan het plafond. Met een houten rollende ladder kan men de hoge planken gemakkelijker bereiken.</p>
 </div>
 
 ***The Desk.*** A handwritten note sits atop the desk. It reads:
@@ -390,7 +390,7 @@ This room is largely as described in <span class="citation">Secret Room (p. 214)
 When the players enter this room, read:
 
 <div class="description">
-<p>This small hidden room is packed with bookshelves groaning with old and ominous-looking leather-bound tomes. A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest, its ribs and head caught beneath the lid, is a skeleton in leather armor.</p>
+<p>Deze kleine, verborgen kamer staat vol met boekenkasten die doorbuigen onder het gewicht van oude, onheilspellend ogende, in leer gebonden boekwerken. Tegen de zuidelijke muur staat een zware houten kist met ijzeren poten in de vorm van klauwen; het deksel is half gesloten. Uit de kist steekt een skelet in een leren harnas, waarvan de ribben en het hoofd onder het deksel vastzitten.</p>
 </div>
 
 The chest no longer contains the deed to Old Bonegrinder. Additionally, change Strahd’s letter to read as follows:
@@ -422,8 +422,8 @@ This room is largely as described in <span class="citation">Balcony (p. 214)</sp
 When the players enter this room, read:
 
 <div class="description">
-<p>You climb the red marble staircase to its full height, arriving at a dusty balcony. The air here is dry and musty, but tinged with a strange, coppery scent. </p>
-<p>A suit of black plate armor stands against one wall, draped in cobwebs and marked by age. Oil lamps are mounted on the faded oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny beasts.</p>
+<p>Je beklimt de rode marmeren trap tot helemaal boven en komt uit op een stoffig balkon. De lucht is hier droog en muf, maar doordrongen van een vreemde, koperachtige geur. </p>
+<p>Tegen een muur staat een zwart plaatpantser, bedekt met spinnenwebben en getekend door de tand des tijds. Aan de vervaagde eikenhouten lambrisering, waarop boslandschappen met bomen, vallende bladeren en kleine beestjes zijn uitgehouwen, hangen olielampen.</p>
 </div>
 
 When triggered, the **animated armor** will use one or both of its **_multiattack_** attacks to attempt to push a player over the railing using a ***shove*** attack, or attempt to grapple its nearest target before shoving them prone.
@@ -458,11 +458,11 @@ A creature that is pushed over the edge of the balcony falls two stories, or twe
 When a player first approaches this door, read:
 
 <div class="description">
-<p>These grand doors loom tall, their dark wood frames enclosing a pair of dusty stained-glass windows. Each pane is etched with intricate designs that resemble windmills, their once-vibrant hues now faded and obscured beneath a thick veil of grime.</p>
-<p>Through the dusty haze that prickles your eyes, you catch a glimpse of something through the windows: a silhouette, standing mere inches behind the glass, lit from behind by a dim, amber glow. It's still and unmoving, but the mere sight of it seizes your muscles in a vice-like grip, your limbs refusing to obey your conscious mind.</p>
-<p>The air around you thickens, its temperature plummeting to a bone-chilling cold. Your breath fogs the glass panes, a delicate frost creeping across them as the house's distant creaks and whispers are swallowed by a heavy silence.</p>
-<p>The shadow behind the door is nearly formless—insubstantial—but its presence invokes a primordial dread deep within your marrow. Your heart beats faster, sweat beading on your forehead, pulse racing through your veins. Slowly, the silhouette begins to turn its head toward yours.</p>
-<p>And then, just as suddenly as it appeared, the shadow evaporates. The biting cold ebbs away, and the house's quiet sounds return once more.</p>
+<p>Deze imposante deuren torenen hoog boven je uit; hun donkere houten kozijnen omsluiten een paar stoffige glas-in-loodramen. Op elke ruit zijn ingewikkelde motieven gegraveerd die op windmolens lijken; hun eens zo levendige kleuren zijn nu vervaagd en verborgen onder een dikke laag vuil.</p>
+<p>Door de stoffige nevel die in je ogen prikt, vang je een glimp op van iets achter de ramen: een silhouet, dat slechts enkele inches achter het glas staat, van achteren verlicht door een zwakke, amberkleurige gloed. Het staat stil en beweegt niet, maar alleen al de aanblik ervan klemt je spieren vast in een ijzeren greep, waardoor je ledematen weigeren je bewuste geest te gehoorzamen.</p>
+<p>De lucht om je heen wordt zwaarder, de temperatuur daalt tot een ijskoude kou die tot op het bot doordringt. Je adem beslaat de ruiten, terwijl er een dun laagje ijs overheen kruipt en het verre gekraak en gefluister van het huis wordt opgeslokt door een zware stilte.</p>
+<p>De schaduw achter de deur is bijna vormloos – ongrijpbaar – maar zijn aanwezigheid roept een oerangst op, diep in je botten. Je hart klopt sneller, het zweet parelt op je voorhoofd, je polsslag raast door je aderen. Langzaam begint het silhouet zijn hoofd naar jou te draaien.</p>
+<p>En dan, net zo plotseling als het verscheen, verdampt de schaduw. De bijtende kou ebt weg en de stille geluiden van het huis keren weer terug.</p>
 </div>
 
 This room is largely as described in <span class="citation">Master Suite (p. 214)</span>.
@@ -477,10 +477,10 @@ This room is largely as described in <span class="citation">Master Suite (p. 214
 When the players enter this room, read:
 
 <div class="description">
-<p>You enter a dusty, cobweb-filled master bedroom with burgundy drapes covering the windows. A four-poster bed with embroidered curtains and tattered gossamer veils stands against the center wall.</p>
-<p>A door facing the foot of the bed has a faded full-length mirror mounted on it. In the right-hand corner of the room stands a small wooden door, its surface half-rotted by age. A tarnished metal button is set into the wall beside it.</p>
-<p>A rotting tiger-skin rug lies on the floor in front of the fireplace, which has a dust-covered portrait of the man and woman from the first-floor portrait hanging above it. A web-filled parlor in the southwest corner contains two chairs and a table holding several items, as well as a door with a dark, dirt-flecked window. </p>
-<p>The room also contains a matching pair of wardrobes, a padded chair, and a vanity with a wood-framed mirror and a silver jewelry box. A soft amber glow emanates from beneath the jewelry box's lid.</p>
+<p>Je komt in een stoffige, met spinnenwebben bedekte hoofdslaapkamer met bordeauxrode gordijnen voor de ramen. Tegen de middelste muur staat een hemelbed met geborduurde gordijnen en versleten, ragfijne sluiers.</p>
+<p>Op een deur aan het voeteneinde van het bed is een vervaagde passpiegel bevestigd. In de rechterhoek van de kamer staat een kleine houten deur, waarvan het oppervlak door ouderdom half verrot is. Naast de deur is een aangetaste metalen knop in de muur verwerkt.</p>
+<p>Op de vloer voor de open haard ligt een verrot tapijt van tijgerhuid; boven de haard hangt een met stof bedekt portret van de man en vrouw uit het portret op de eerste verdieping. Een met spinnenwebben bedekte salon in de zuidwestelijke hoek bevat twee stoelen en een tafel met daarop diverse voorwerpen, evenals een deur met een donker, met vuil bespat raam. </p>
+<p>De kamer bevat ook een bijpassend paar kledingkasten, een gestoffeerde stoel en een kaptafel met een spiegel in een houten lijst en een zilveren juwelendoos. Onder het deksel van de juwelendoos straalt een zachte amberkleurige gloed vandaan.</p>
 </div>
 
 ***The Bed.*** A player that approaches the bed can see that a large, bloodstained kitchen knife has been driven into one of the pillows.
@@ -506,6 +506,10 @@ See **Elisabeth's Amber Shard** in [[#Ritual Chamber]] below for more informatio
 This room is as described in <span class="citation">Bathroom (p. 215)</span>.
 >This dark room contains a wooden tub with clawed feet, a small iron stove with a kettle resting atop it, and a bar- rel under a spigot in the east wall. A cistern on the roof used to collect rainwater, which was borne down a pipe to the spigot; however, the plumbing no longer works.
 
+<div class="description">
+In deze donkere kamer staan een houten badkuip met klauwpoten, een klein ijzeren kacheltje met daarop een ketel, en een vat onder een kraan in de oostelijke muur.
+</div>
+
 ### Storage Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 14.</em></span>
 
@@ -515,7 +519,7 @@ This room is largely as described in <span class="citation">Storage Room (p. 215
 When the players enter it, read:
 
 <div class="description">
-<p>Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered broom leans against the far wall.</p>
+<p>Aan de muren van deze kamer staan stoffige planken. Op enkele planken liggen opgevouwen lakens, dekens en oude stukken zeep. Tegen de achterste muur leunt een met spinnenwebben bedekte bezem.</p>
 </div>
 
 When a player first approaches within 5 feet of the **broom of animated attack**, it attacks with surprise as soon as they avert their eyes or turn away, thwacking them once upside the head. It then immediately returns to its initial position—now cobweb-free. On its future turns, the broom uses its **_multiattack_** to continue to attack any player not looking at it who remains within 5 feet, foregoing opportunity attacks against players that move away.
@@ -531,10 +535,10 @@ This room is largely as described in <span class="citation">Nursemaid’s Suite 
 When the players enter it, read:
 
 <div class="description">
-<p>Dust and cobwebs shroud this elegantly appointed bedroom. A large bed stands against the far wall, its once-opulent coverings now faded and threadbare. </p>
-<p>Beside the bed, a mildew-covered towel covers most of a dusty yellowed book on one of its two end tables. On the far side of the room, you can see a pair of two more stained-glass doors, their windows flecked with dirt and grime.</p>
-<p>To the left stands an empty wardrobe, its doors slightly ajar. Mounted beside it stands a full-length mirror, its wooden frame carved to resemble ivy and berries. To the right stands a closed door.</p>
-<p>As you look around the room, you notice that the blankets atop the bed lift slightly away from the mattress, as though something is lying atop the mattress beneath. As you watch, you can see the coverings, almost imperceptibly, slowly rise and fall with low, rhythmic rustling.</p>
+<p>Stof en spinnenwebben bedekken deze elegant ingerichte slaapkamer. Tegen de achterste muur staat een groot bed, waarvan de eens zo weelderige beddengoed nu vervaagd en versleten is. </p>
+<p>Naast het bed bedekt een met schimmel bedekte handdoek het grootste deel van een stoffig, vergeeld boek dat op een van de twee nachtkastjes ligt. Aan de andere kant van de kamer zie je nog twee glas-in-looddeuren, waarvan de ruiten bezaaid zijn met vuil en roet.</p>
+<p>Links staat een lege kledingkast, waarvan de deuren op een kier staan. Ernaast hangt een passpiegel, waarvan het houten frame is bewerkt met een motief van klimop en bessen. Rechts staat een gesloten deur.</p>
+<p>Als je de kamer rondkijkt, valt het je op dat de dekens op het bed iets van de matras afsteken, alsof er iets op de matras eronder ligt. Terwijl je toekijkt, zie je de dekens bijna onmerkbaar langzaam op en neer gaan, vergezeld van een zacht, ritmisch geritsel.</p>
 </div>
 
 ***The Bed.*** A player that removes the covers from the bed finds that there is nothing beneath them. Instead, the player only finds a bloodstained mattress and crude hand-and-foot restraints made from barbed wire nailed to the four posts of the bed frame.
@@ -548,8 +552,8 @@ When the players enter it, read:
 If a player enters the nursery, the humming abruptly cuts off. Read:
 
 <div class="description">
-<p>The air in this small nursery is strangely warm and tinged with a coppery scent. Blood-red runes cover the walls, arranged in concentric circles around the crib in the center, which seems to have a name carved into its side. Strange, flesh-like tumors have grown along the floor around it in sparse clusters, and slowly pulsate as if they're breathing.</p>
-<p>Looking down, you notice that a small object seems to have fallen beneath the crib. In the distance, you can faintly hear the sound of an infant's soft whimpering.</p>
+<p>De lucht in deze kleine kinderkamer is vreemd warm en heeft een koperen geur. Bloedrode runen bedekken de muren, gerangschikt in concentrische cirkels rond het wiegje in het midden, waarin aan de zijkant een naam lijkt te zijn gegraveerd. Vreemde, vleesachtige gezwellen zijn in schaarse groepjes langs de vloer eromheen gegroeid en pulseren langzaam alsof ze ademen.</p>
+<p>Als je naar beneden kijkt, zie je dat er een klein voorwerp onder de wieg lijkt te zijn gevallen. In de verte hoor je vaag het zachte gejammer van een baby.</p>
 </div>
 
 The object is a severed human finger with several pieces of flesh stripped from it. Tiny toothmarks can be seen around the wounds. A DC 12 Wisdom (Medicine) check identifies the finger as a woman's, and the toothmarks as a human child's. 
@@ -573,13 +577,13 @@ This room is largely as described in <span class="citation">Attic Hall (p. 215)<
 >This bare hall is choked with dust and cobwebs.
 >
 >LOCKED DOOR
->The door to area 20 is held shut with a padlock. Its key is kept in the library (area 8), but the lock can also be picked with thieves' tools and a successful DC 15 Dex- terity check.
+>The door to area 20 is held shut with a padlock. Its key is kept in the library (area 8), but the lock can also be picked with thieves' tools and a successful DC 15 Dexterity check.
 
 When the players enter this room, read:
 
 <div class="description">
-<p>This bare hall is choked with dust and cobwebs. Several doors lead from this attic corridor, including a door held shut with a padlock.</p>
-<p>A low creak cuts through the air as one of the unlocked doors slowly creaks open.</p>
+<p>Deze kale gang zit vol stof en spinnenwebben. Vanuit deze zoldergang leiden verschillende deuren naar buiten, waaronder een deur die met een hangslot is afgesloten.</p>
+<p>Er klinkt een zacht gekraak als een van de niet-afgesloten deuren langzaam openkraakt.</p>
 </div>
 
 The door leads to the [[#Spare Bedroom]].
@@ -592,7 +596,7 @@ This room is largely as described in <span class="citation">Spare Bedroom (p. 21
 The doll from Children’s Room (p. 215-16) can be found here. When the players first enter it, read:
 
 <div class="description">
-<p>This cold, dust-choked room contains a slender bed, a nightstand, a small iron stove, a writing desk with a stool, an empty wardrobe, and a rocking chair. A frowning doll in a lacy yellow dress sits in the northern window box beside a tarnished old music box, cobwebs draping it like a wedding veil.</p>
+<p>In deze koude, met stof bedekte kamer staan een smal bed, een nachtkastje, een klein ijzeren kacheltje, een schrijftafel met een krukje, een lege kledingkast en een schommelstoel. In de vensterbank aan de noordkant zit een fronsende pop in een gele kanten jurk naast een verweerde oude muziekdoos, die met spinnenwebben is bedekt alsof het een bruidssluier is.</p>
 </div>
 
 The players can recognize the doll as the same doll that Thorn was holding in the family portrait in the Main Hall.
@@ -675,7 +679,7 @@ This room is largely as described in <span class="citation">Storage Room (p. 215
 When the players enter this room, read:
 
 <div class="description">
-<p>This dusty chamber is packed with lumpy, squat shapes draped in dusty white sheets. An old iron stove stands against the right-side wall, next to what looks to be a large trunk covered by a sheet.</p>
+<p>Deze stoffige kamer staat vol met hobbelige, gedrongen vormen die in stoffige witte lakens zijn gehuld. Tegen de rechtermuur staat een oude ijzeren kachel, naast wat lijkt op een grote koffer die met een laken is afgedekt.</p>
 </div>
 
 The nursemaid’s **specter** does not appear in this room. Instead, a character who opens the trunk finds the nursemaid’s corpse, with wounds consistent with those seen on the spirit’s body in the **Nursemaid’s Suite**. A DC 14 Wisdom (Medicine) check reveals that the woman died of starvation.
@@ -686,6 +690,12 @@ A player inspecting the remains feels a cold breath on their shoulder and the un
 
 This room is as described in <span class="citation">Spare Bedroom (p. 215)</span>.
 >This web-filled room contains a slender bed, a night- stand, a rocking chair, an empty wardrobe, and a small iron stove.
+
+<div class="description">
+<p>
+In deze met spinnenwebben bedekte kamer staan een smal bed, een nachtkastje, een schommelstoel, een lege kledingkast en een klein ijzeren kacheltje.
+</p>
+</div>
 
 ### Secret Stairs
 <span class="citation"><em>This scene takes place in Appendix B: Area 21.</em></span>
@@ -700,16 +710,16 @@ To allow the stone slab to swing open and reveal the hidden stairs on the opposi
 When the players enter this room, read:
 
 <div class="description">
-<p>The secret door opens to reveal a narrow spiral staircase built of aged-looking wood within a tight shaft of mortared stone. Thick cobwebs fill the staircase as it descends into the darkness below.</p>
+<p>De geheime deur gaat open en onthult een smalle wenteltrap van verweerd ogend hout, gebouwd in een krappe schacht van met mortel gemetselde stenen. Dikke spinnenwebben bedekken de trap terwijl deze afdaalt in de duisternis beneden.</p>
 </div>
 
 As the players descend the stairs, read:
 
 <div class="description">
-<p>The broken cobwebs around you sway like a gossamer wedding veil, beckoning you forward as the ancient stairs creak and groan underfoot. The gaping maw of the stairwell draws you deeper, swallowing you up as you descend further down its gullet. You descend one floor—two floors—three.</p>
-<p>The walls of the stone shaft narrow around you, forcing you to hunch your shoulders and pull in your elbows to continue downward. In the darkness, you can only hear the shuffle of your feet, the choking groan of the stairs, and the pounding of your blood in your ears. </p>
-<p>Finally, after what feels like hours, the descent levels out, and the spiral staircase ends at a darkened landing of  packed earth. A narrow tunnel supported by aged timber braces stretches ahead of you, its stone walls seeming to bleed with deposits of streaked, red clay. Eight feet ahead, the tunnel splits, branching to the left and right.</p>
-<p>As your eyes and ears adjust to the cold, subterranean corridor, you notice that the tunnel isn't as silent as the staircase above. An eerie, low-pitched sound echoes through the space—and you soon recognize it as a deep, incessant chanting.</p>
+<p>De gescheurde spinnenwebben om je heen wuiven als een ragfijne bruidssluier en lokken je verder, terwijl de eeuwenoude trap onder je voeten kraakt en kreunt. De gapende muil van het trappenhuis trekt je dieper naar binnen en slokt je op terwijl je verder afdaalt door zijn keel. Je daalt één verdieping af – twee verdiepingen – drie.</p>
+<p>De muren van de stenen schacht worden steeds smaller om je heen, waardoor je je schouders moet intrekken en je ellebogen moet aanspannen om verder naar beneden te kunnen gaan. In de duisternis hoor je alleen het geschuifel van je voeten, het verstikkende gekreun van de trap en het bonzen van je bloed in je oren. </p>
+<p>Eindelijk, na wat uren lijkt te duren, wordt de afdaling vlakker en eindigt de wenteltrap op een donkere overloop van aangestampte aarde. Voor je strekt zich een smalle tunnel uit, ondersteund door verouderde houten steunen, waarvan de stenen muren lijken te bloeden met afzettingen van gestreepte, rode klei. Acht voet verderop splitst de tunnel zich, met vertakkingen naar links en rechts.</p>
+<p>Terwijl je ogen en oren zich aanpassen aan de koude, ondergrondse gang, merk je dat de tunnel niet zo stil is als de trap erboven. Een griezelig, laag geluid weerklinkt door de ruimte – en al snel herken je het als een diep, onophoudelijk gezang.</p>
 </div>
 
 **_Milestone_**. Descending into Death House's dungeon level completes a story milestone. When the party exits the secret stairs, award each player 200 XP. 
@@ -729,19 +739,19 @@ These rooms are largely as described in **Family Crypts** (p. 217-18).
 As the players approach the **Empty Crypt** and **Walter’s Crypt**, read:
 
 <div class="description">
-<p>This side-corridor branches again to the left and right. On either side, large standing stone slabs have been set aside to lean against the walls, opening the way to a pair of dark, quiet crypts. The slab to the right is etched with the name "Walter Durst"; the slab to the left is blank.</p>
+<p>Deze zijgang splitst zich opnieuw naar links en rechts. Aan weerszijden zijn grote staande stenen platen tegen de muren geplaatst, waardoor de weg wordt vrijgemaakt naar een paar donkere, stille crypten. Op de plaat aan de rechterkant staat de naam „Walter Durst“ gegraveerd; de plaat aan de linkerkant is onbeschreven.</p>
 </div>
 
 If the characters enter the **Empty Crypt**, read:
 
 <div class="description">
-<p>You peer past the leaning stone slab to see an empty earthen crypt.</p>
+<p>Je kijkt langs de scheve stenen plaat en ziet een lege aarden grafkelder.</p>
 </div>
 
 If the characters enter **Walter’s Crypt**, read:
 
 <div class="description">
-<p>Swollen, bloody cysts cover the walls of this crypt like tumors. From time to time, they pulsate and burst, streams of pus oozing down to collect on the floor. Each time they do, you can hear an infant's quiet whimpers, which are swiftly quieted by the sound of distant humming.</p>
+<p>Gezwollen, bloederige cysten bedekken de wanden van deze crypte als tumoren. Af en toe pulseren ze en barsten ze open, waarna stromen pus naar beneden sijpelen en zich op de vloer verzamelen. Telkens als dat gebeurt, hoor je het zachte gejammer van een baby, dat al snel wordt overstemd door het geluid van een verre zoemtoon.</p>
 </div>
 
 Players who have previously read or heard the song recognize the melody of the humming as *Waltz for Klara.*
@@ -749,31 +759,31 @@ Players who have previously read or heard the song recognize the melody of the h
 As the players approach **Gustav’s Crypt** and **Elisabeth’s Crypt**, read:
 
 <div class="description">
-<p>This side corridor branches again to the left and right. Large standing stone slabs seal the entrance to the tunnels on either side, blocking the way forward. The slab to the left is etched with the name "Gustav Durst"; the slab to the right is etched with the name "Elisabeth Durst." The tunnel here is unnaturally quiet, and a thin mist clings to the floor.</p>
+<p>Deze zijgang splitst zich opnieuw naar links en rechts. Grote staande stenen platen sluiten de ingang van de tunnels aan weerszijden af en versperren de weg naar voren. Op de plaat aan de linkerkant staat de naam „Gustav Durst“ gegraveerd; op de plaat aan de rechterkant staat de naam „Elisabeth Durst“ gegraveerd. Het is hier in de tunnel onnatuurlijk stil en er hangt een dunne mist boven de vloer.</p>
 </div>
 
 If the characters enter **Gustav’s Crypt**, read:
 
 <div class="description">
-<p>The crypt beyond the slab contains a stone coffin lying atop a dusty stone bier. Silence hangs heavy over the lonely chamber.</p>
+<p>In de crypte achter de grafsteen staat een stenen kist op een stoffige stenen baar. Er heerst een zware stilte in de eenzame kamer.</p>
 </div>
 
 If the characters enter **Elisabeth’s Crypt**, read:
 
 <div class="description">
-<p>A thick, acrid miasma hangs over the interior of this crypt, which holds a stone-carved coffin resting atop a stone bier. The floor before it is littered with the bodies of hundreds of dead termites. Many cling to the elongated, bloated body of a dead termite queen, while others appear to have died atop the scarred, mutilated bodies of four larger beetles not far away.</p>
+<p>Een dikke, scherp ruikende damp hangt boven het binnenste van deze crypte, waarin een uit steen gehouwen doodskist op een stenen baar rust. De vloer ervoor is bezaaid met de lichamen van honderden dode termieten. Velen klampen zich vast aan het langgerekte, opgezwollen lichaam van een dode termietenkoningin, terwijl anderen lijken te zijn gestorven bovenop de met littekens bedekte, verminkte lichamen van vier grotere kevers niet ver daarvandaan.</p>
 </div>
 
 As the players approach **Rose’s Crypt** and **Thorn’s Crypt**, read:
 
 <div class="description">
-<p>This side-corridor branches again to the left and right. Large standing stone slabs seal the entrance to the tunnels on either side, blocking the way forward. The slab to the left is etched with the name "Rosavalda Durst"; the slab to the right is etched with the name "Thornboldt Durst." Each slab exudes the silence of a forgotten grave.</p>
+<p>Deze zijgang splitst zich opnieuw naar links en rechts. Grote staande stenen platen sluiten de ingang van de tunnels aan weerszijden af en versperren de weg naar voren. Op de plaat aan de linkerkant staat de naam „Rosavalda Durst“ gegraveerd; op de plaat aan de rechterkant staat de naam „Thornboldt Durst“ gegraveerd. Elke plaat straalt de stilte uit van een vergeten graf.</p>
 </div>
 
 If the characters enter either crypt, read:
 
 <div class="description">
-<p>This small chamber contains a stone coffin resting on a stone bier. The air in this crypt hangs heavy with sorrow.</p>
+<p>In deze kleine ruimte staat een stenen doodskist op een stenen baar. De lucht in deze crypte is doordrongen van verdriet.</p>
 </div>
 
 The players cannot help Rose or Thorn’s ghosts find peace by placing their remains in their coffins. Neither [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] nor [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] finds these crypts comforting. Both prefer to leave as quickly as possible.
@@ -782,6 +792,12 @@ The players cannot help Rose or Thorn’s ghosts find peace by placing their rem
 
 This room is largely as described in <span class="citation">Cult Initiates’ Quarters (p. 218)</span>. 
 >A wooden table and four chairs stand at the east end of this room. To the west are four alcoves containing moldy straw pallets.
+
+<div class="description">
+<p>
+Aan de oostkant van deze kamer staan een houten tafel en vier stoelen. Aan de westkant bevinden zich vier nissen met beschimmelde strobedden.
+</p>
+</div>
 
 As the characters move to descend to the <span class="citation">Well and Cultist Quarters (p. 218)</span>, a sudden splashing sound can be heard—which then quickly subsides.
 ### Well and Cultist Quarters
@@ -793,15 +809,16 @@ This room is largely as described in <span class="citation">Well and Cultist Qua
 >TREASURE In addition to some worthless personal effects, each chest contains one or more valuable items.
 >25A. This room's chest contains 11 gp and 60 sp in a pouch made of human skin.
 >25B. This room's chest contains three moss agates (worth 10 gp each) in a folded piece of black cloth.
->25C. This room's chest contains a black leather eye- patch with a carnelian (worth 50 gp) sewn into it. 251). This room's chest contains an ivory hairbrush with silver bristles (worth 25 gp).
+>25C. This room's chest contains a black leather eye- patch with a carnelian (worth 50 gp) sewn into it.
+>25D. This room's chest contains an ivory hairbrush with silver bristles (worth 25 gp).
 >25E. This room's chest contains a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,” and ends with the phrase, "Fed to Walter."
 
 When the players enter this room, read:
 
 <div class="description">
-<p>The ceiling of this dark, earthen chamber rises a foot higher than the cramped tunnel. It's supported by thick wooden posts and cross beams that have rotted with age and bear deep holes indicative of hungry insects.</p>
-<p>Here, a lonely well stands at the center of the room, surrounded on three sides by several smaller, alcove-like chambers that have been carved into the walls. Old footprints criss-cross the floor, leading into the alcoves, around the well, up a staircase on the other end of the room, and back upstairs the way you came.</p>
-<p>An old hempen rope attached to a rusted pulley descends past the mouth of the well, swaying gently in the stagnant air as if just abandoned by an unseen occupant.</p>
+<p>Het plafond van deze donkere, aarden kamer ligt een foot hoger dan dat van de krappe tunnel. Het wordt ondersteund door dikke houten palen en dwarsbalken die door ouderdom zijn verrot en diepe gaten vertonen, een teken van hongerige insecten.</p>
+<p>Hier staat een eenzame put in het midden van de kamer, aan drie kanten omringd door verschillende kleinere, nisachtige kamers die in de muren zijn uitgehouwen. Oude voetafdrukken doorkruisen de vloer en leiden naar de nissen, rond de put, een trap op aan de andere kant van de kamer en weer naar boven, langs dezelfde weg als waar je vandaan kwam.</p>
+<p>Een oud henneptouw, vastgemaakt aan een verroeste katrol, hangt langs de opening van de put naar beneden en zwaait zachtjes in de stilstaande lucht, alsof het net is achtergelaten door een onzichtbare bewoner.</p>
 </div>
 
 The well comprises a 4-foot-diameter well shaft with a 3-foot-high stone lip, and descends 30 feet to a water-filled cistern. A wooden bucket hangs from a rope-and-pulley mechanism bolted to the cross beams above the well. The interior of the shaft is covered with an ash-black species of fungi.
@@ -820,22 +837,22 @@ This room is largely as described in <span class="citation">Hidden Spiked Pit (p
 If the characters enter this area from [[#Well and Cultist Quarters]], read:
 
 <div class="description">
-<p>The staircase leads to a quiet landing. To the front, the stairs continue upward and vanish around a bend. To the right, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, another earthen staircase descends into darkness.</p>
-<p>The incessant chanting that has filled the air of this underground complex grows stronger toward the far end of this corridor. Its source seems to lie beyond the descending stairs.</p>
+<p>De trap leidt naar een rustig bordes. Aan de voorkant loopt de trap verder omhoog en verdwijnt achter een bocht. Rechts loopt het bordes rechtdoor naar een eenzame gang. Deze tunnelgang lijkt verrassend schoon en vrij van puin; aan het uiteinde daalt een andere aarden trap af in de duisternis.</p>
+<p>Het onophoudelijke gezang dat de lucht van dit ondergrondse complex heeft gevuld, wordt sterker naarmate men het uiteinde van deze gang nadert. De bron ervan lijkt zich achter de afdalende trap te bevinden.</p>
 </div>
 
 If the characters enter this area from [[#Dining Hall]], read:
 
 <div class="description">
-<p>The staircase descends to a quiet landing. To the front, the stairs continue to descend, opening into a broader chamber. To the left, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, another earthen staircase descends into darkness.</p>
-<p>The incessant chanting that has filled the air of this underground complex grows stronger toward the far end of this corridor.</p>
+<p>De trap daalt af naar een rustig bordes. Aan de voorkant loopt de trap verder naar beneden en komt uit in een ruimere zaal. Links loopt het bordes rechtdoor naar een eenzame gang. Deze tunnelgang lijkt verrassend schoon en vrij van puin; aan het uiteinde daalt nog een aarden trap af in de duisternis.</p>
+<p>Het onophoudelijke gezang dat de lucht van dit ondergrondse complex heeft gevuld, wordt sterker naarmate je verder de gang in loopt.</p>
 </div>
 
 If the characters enter this area from [[#Ghoulish Encounter]], read:
 
 <div class="description">
-<p>The staircase descends to a quiet landing. To the left, the stairs continue to descend, rounding a bend before vanishing into darkness. The incessant chanting that has filled the air of this underground complex appears to be echoing from below.</p>
-<p>To the right, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, the corridor branches left and right.</p>
+<p>De trap leidt naar een rustige overloop. Links loopt de trap verder naar beneden, maakt een bocht en verdwijnt dan in de duisternis. Het onophoudelijke gezang dat de lucht van dit ondergrondse complex heeft gevuld, lijkt van beneden te weerklinken.</p>
+<p>Rechts loopt de overloop rechtdoor naar een eenzame gang. Deze tunnelgang lijkt verrassend schoon en vrij van puin; aan het uiteinde splitst de gang zich naar links en rechts.</p>
 </div>
 
 ### Dining Hall
@@ -847,8 +864,8 @@ This room is largely as described in <span class="citation">Dining Hall (p. 218)
 When the players enter this room, read: 
 
 <div class="description">
-<p>This room contains a plain wooden table flanked by long benches. Moldy humanoid bones lie strewn on the dirt floor.  A thick stench of rot and gore fills the chamber, so coppery with blood that you can taste it on your tongue.</p>
-<p>A few dozen moldy bones have been piled into a grotesque and misshapen pyramid in a dark alcove to the south.</p>
+<p>In deze kamer staat een eenvoudige houten tafel, geflankeerd door lange banken. Op de aarden vloer liggen overal beschimmelde mensachtige botten verspreid. Een penetrante stank van verrotting en bloed vult de ruimte; de geur is zo koperachtig van het bloed dat je het op je tong kunt proeven.</p>
+<p>In een donkere nis aan de zuidkant zijn enkele tientallen beschimmelde botten opgestapeld tot een groteske en misvormde piramide.</p>
 </div>
 
 ### Larder
@@ -862,8 +879,8 @@ The **grick** in this alcove—the warped remains of Gustav Durst’s flayed cor
 If the players disturb the grick, read:
 
 <div class="description">
-<p>A horrific creature drops from the ceiling—a long, flesh-like worm the breadth and length of a human man, its trunk resembling a humanoid body with its arms sewn to its torso and both legs sewn together. Its flayed muscles split open to reveal a flapping, gaping maw ringed by hundreds of tiny, humanlike teeth and a gnashing, bony beak. </p>
-<p>It lets out a high-pitched, gurgling squeal as it hurls itself forward, writhing, tendon-like tentacles lashing toward your face.</p>
+<p>Een gruwelijk wezen valt uit het plafond – een lange, vleesachtige worm zo breed en lang als een volwassen man, waarvan de romp lijkt op een mensachtig lichaam met armen die aan de romp zijn vastgenaaid en beide benen die aan elkaar zijn vastgenaaid. Zijn afgeschilferde spieren splijten open en onthullen een flapperende, gapende muil, omringd door honderden kleine, mensachtige tanden en een knarsende, benige snavel. </p>
+<p>Het slaakt een schril, gorgelend gekrijs terwijl het zich voorover werpt, kronkelend, met peesachtige tentakels die naar je gezicht uithalen.</p>
 </div>
 
 > [!combat]- **Combat - Grick**
@@ -899,8 +916,7 @@ This area is largely as described in <span class="citation">Ghoulish Encounter (
 When the players first approach this area, read: 
 
 <div class="description">
-<p>A deathly stench emanates from this corridor. The stone walls bear cracked, red stains, and a trail of old bones leads deeper down the tunnel.</p>
-
+<p>Er komt een dodelijke stank uit deze gang. Op de stenen muren zijn rode vlekken te zien, en een spoor van oude botten leidt dieper de tunnel in.</p>
 </div>
 
 When a player first enters one of the 5-foot squares at the entrance of the corridors (marked T on the map), three **ghouls** rise up out of the ground in the spaces marked S and attack.
@@ -935,7 +951,7 @@ As the ghouls attack, they mindlessly repeat any or all of the following phrases
 If the players continue down the corridor, read:
 
 <div class="description">
-<p>The trail ends at the center of a quiet intersection. The incessant chanting you've heard since first entering the dungeon is noticeably louder down the northern branch of the intersection.</p>
+<p>Het pad eindigt midden op een rustig kruispunt. Het onophoudelijke gezang dat je al sinds je de kerker bent binnengegaan hebt gehoord, klinkt merkbaar luider aan de noordelijke tak van het kruispunt.</p>
 </div>
 
 ### Stairs Down
