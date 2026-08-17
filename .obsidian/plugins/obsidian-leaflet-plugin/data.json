@@ -3,7 +3,7 @@
     {
       "id": "barovia-map",
       "locked": true,
-      "lastAccessed": 1785330259499,
+      "lastAccessed": 1786546532366,
       "markers": [
         {
           "id": "ID_792aa9c94b88",
@@ -542,7 +542,7 @@
     {
       "id": "deathhousefst-map",
       "locked": true,
-      "lastAccessed": 1785342446004,
+      "lastAccessed": 1786546532366,
       "markers": [
         {
           "id": "ID_68284a4a3a28",
@@ -639,7 +639,7 @@
     {
       "id": "deathhousesnd-map",
       "locked": true,
-      "lastAccessed": 1785342446004,
+      "lastAccessed": 1786546532366,
       "markers": [
         {
           "id": "ID_fbc9c80a8b59",
@@ -736,7 +736,7 @@
     {
       "id": "deathhousetrd-map",
       "locked": true,
-      "lastAccessed": 1785342446004,
+      "lastAccessed": 1786546532366,
       "markers": [
         {
           "id": "ID_68cb99f839e8",
@@ -833,7 +833,7 @@
     {
       "id": "deathhousefrt-map",
       "locked": true,
-      "lastAccessed": 1785342446004,
+      "lastAccessed": 1786546532366,
       "markers": [
         {
           "id": "ID_f80a48386b98",
@@ -930,7 +930,7 @@
     {
       "id": "deathhousedng-map",
       "locked": true,
-      "lastAccessed": 1785342446004,
+      "lastAccessed": 1786546532366,
       "markers": [
         {
           "id": "ID_780a6829b91b",
@@ -1144,6 +1144,176 @@
             1674.1710321853911
           ],
           "link": "Arc A - Escape From Death House NL#Ghoulish Encounter",
+          "layer": "%5B%5BDeathHousedng.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_999a2acbabb8",
+          "type": "default",
+          "loc": [
+            1782.375,
+            1378.9795172949268
+          ],
+          "link": "Arc A - Escape From Death House NL#Stairs Down",
+          "layer": "%5B%5BDeathHousedng.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0be918d998f9",
+          "type": "default",
+          "loc": [
+            1886.375,
+            2399.124525660794
+          ],
+          "link": "Arc A - Escape From Death House NL#Darklord’s Shrine",
+          "layer": "%5B%5BDeathHousedng.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da09ebeb69e8",
+          "type": "default",
+          "loc": [
+            2720.375,
+            2295.1097404940783
+          ],
+          "link": "Arc A - Escape From Death House NL#Hidden Trapdoor",
+          "layer": "%5B%5BDeathHousedng.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_688bc8685998",
+          "type": "default",
+          "loc": [
+            1484.375,
+            2085.0798858305175
+          ],
+          "link": "Arc A - Escape From Death House NL#Cult Leader’s Den",
+          "layer": "%5B%5BDeathHousedng.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b968c828687b",
+          "type": "default",
+          "loc": [
+            1478.375,
+            1581.0085189681004
+          ],
+          "link": "Arc A - Escape From Death House NL#Cult Leader’s Quarters",
+          "layer": "%5B%5BDeathHousedng.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bb9a99bcb4b",
+          "type": "default",
+          "loc": [
+            1488.375,
+            870.9075817722515
+          ],
+          "link": "Arc A - Escape From Death House NL#Reliquary",
+          "layer": "%5B%5BDeathHousedng.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dae99ae96a98",
+          "type": "default",
+          "loc": [
+            758.375,
+            574.8942182561815
+          ],
+          "link": "Arc A - Escape From Death House NL#Prison",
+          "layer": "%5B%5BDeathHousedng.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a5abbdb3859",
+          "type": "default",
+          "loc": [
+            672.375,
+            444.87573679778666
+          ],
+          "link": "Treasure",
+          "layer": "%5B%5BDeathHousedng.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79f97a6858da",
+          "type": "default",
+          "loc": [
+            1140.375,
+            968.9502312916243
+          ],
+          "link": "Arc A - Escape From Death House NL#Portcullis",
+          "layer": "%5B%5BDeathHousedng.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca99cabb7a69",
+          "type": "default",
+          "loc": [
+            706.375,
+            1126.9726933718273
+          ],
+          "link": "Arc A - Escape From Death House NL#Ritual Chamber",
           "layer": "%5B%5BDeathHousedng.jpg%5D%5D",
           "mutable": true,
           "command": false,

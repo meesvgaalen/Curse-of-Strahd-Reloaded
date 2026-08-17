@@ -459,8 +459,8 @@ When a player first approaches this door, read:
 
 <div class="description">
 <p>Deze imposante deuren torenen hoog boven je uit; hun donkere houten kozijnen omsluiten een paar stoffige glas-in-loodramen. Op elke ruit zijn ingewikkelde motieven gegraveerd die op windmolens lijken; hun eens zo levendige kleuren zijn nu vervaagd en verborgen onder een dikke laag vuil.</p>
-<p>Door de stoffige nevel die in je ogen prikt, vang je een glimp op van iets achter de ramen: een silhouet, dat slechts enkele inches achter het glas staat, van achteren verlicht door een zwakke, amberkleurige gloed. Het staat stil en beweegt niet, maar alleen al de aanblik ervan klemt je spieren vast in een ijzeren greep, waardoor je ledematen weigeren je bewuste geest te gehoorzamen.</p>
-<p>De lucht om je heen wordt zwaarder, de temperatuur daalt tot een ijskoude kou die tot op het bot doordringt. Je adem beslaat de ruiten, terwijl er een dun laagje ijs overheen kruipt en het verre gekraak en gefluister van het huis wordt opgeslokt door een zware stilte.</p>
+<p>Door de stoffige nevel die in je ogen prikt, vang je een glimp op van iets achter de ramen: een silhouet, dat slechts enkele centimeters achter het glas staat, van achteren verlicht door een zwakke, amberkleurige gloed. Het staat stil en beweegt niet, maar alleen al de aanblik ervan klemt je spieren vast in een ijzeren greep, waardoor je ledematen weigeren je bewuste geest te gehoorzamen.</p>
+<p>De lucht om je heen wordt zwaarder, de temperatuur daalt tot een ijzige kou die tot op het bot doordringt. Je adem beslaat de ruiten, terwijl er een dun laagje ijs overheen kruipt en het verre gekraak en gefluister van het huis wordt opgeslokt door een zware stilte.</p>
 <p>De schaduw achter de deur is bijna vormloos – ongrijpbaar – maar zijn aanwezigheid roept een oerangst op, diep in je botten. Je hart klopt sneller, het zweet parelt op je voorhoofd, je polsslag raast door je aderen. Langzaam begint het silhouet zijn hoofd naar jou te draaien.</p>
 <p>En dan, net zo plotseling als het verscheen, verdampt de schaduw. De bijtende kou ebt weg en de stille geluiden van het huis keren weer terug.</p>
 </div>
@@ -535,7 +535,7 @@ This room is largely as described in <span class="citation">Nursemaid’s Suite 
 When the players enter it, read:
 
 <div class="description">
-<p>Stof en spinnenwebben bedekken deze elegant ingerichte slaapkamer. Tegen de achterste muur staat een groot bed, waarvan de eens zo weelderige beddengoed nu vervaagd en versleten is. </p>
+<p>Stof en spinnenwebben bedekken deze elegant ingerichte slaapkamer. Tegen de achterste muur staat een groot bed, waarvan het eens zo weelderige beddengoed nu vervaagd en versleten is. </p>
 <p>Naast het bed bedekt een met schimmel bedekte handdoek het grootste deel van een stoffig, vergeeld boek dat op een van de twee nachtkastjes ligt. Aan de andere kant van de kamer zie je nog twee glas-in-looddeuren, waarvan de ruiten bezaaid zijn met vuil en roet.</p>
 <p>Links staat een lege kledingkast, waarvan de deuren op een kier staan. Ernaast hangt een passpiegel, waarvan het houten frame is bewerkt met een motief van klimop en bessen. Rechts staat een gesloten deur.</p>
 <p>Als je de kamer rondkijkt, valt het je op dat de dekens op het bed iets van de matras afsteken, alsof er iets op de matras eronder ligt. Terwijl je toekijkt, zie je de dekens bijna onmerkbaar langzaam op en neer gaan, vergezeld van een zacht, ritmisch geritsel.</p>
@@ -563,6 +563,11 @@ The name "Walter" has been lovingly carved into the head of the crib. A successf
 ***The Mirror.*** The nursemaid’s **specter** does not appear in this room. Instead, when a player approaches the mirror, the nursemaid’s spirit appears as an apparition in the glass.
 
 The spirit resembles a pale, skeletally thin young woman, with all of her fingers and toes removed, her eyes sewn shut, and her lips and teeth torn from her mouth. Countless knife-thin scars line her entire body, including the flesh around her wrists and ankles, and her hair has been carelessly hacked to stubble.
+
+<div class="description">
+<p>De geest lijkt op een bleke, skeletachtig magere jonge vrouw, waarvan alle vingers en tenen zijn afgehakt, de ogen dichtgenaaid en de lippen en tanden uit de mond zijn gerukt. Ontelbare, mesdunne littekens bedekken haar hele lichaam, inclusief het vlees rond haar polsen en enkels, en haar haar is slordig afgehakt tot een stoppeltje.</p>
+<p>Ookal ziet ze er akelig uit, als je naar haar kijkt heb je alleen maar het gevoel dat ze... jullie aan het observeren is, met een verlegen nieuwsgierigheid.</p>
+</div>
 
 Though its appearance is disturbing, players observing the spirit feel that it is simply observing them with shy curiosity.
 
@@ -963,7 +968,7 @@ This room is largely as described in <span class="citation">Stairs Down (p. 218)
 When the players approach this area, read:
 
 <div class="description">
-<p>A dark set of chiseled stone steps descends into darkness. It's clear that the origin of the muffled chanting you've been hearing lies below.</p>
+<p>Een donkere trap van gebeitelde stenen loopt af in de duisternis. Het is duidelijk dat de bron van het gedempte gezang dat je hebt gehoord zich daar beneden bevindt.</p>
 </div>
 
 ### Darklord’s Shrine
@@ -981,10 +986,10 @@ This room is largely as described in <span class="citation">Darklord’s Shrine 
 In addition, when the players enter this room, read:
 
 <div class="description">
-<p>This room is festooned with moldy skeletons that hang from rusty shackles against the walls, their mouths hanging open in silent screams. </p>
-<p>A wide alcove in the south wall contains a painted wooden statue carved in the likeness of a gaunt, pale-faced man wearing a voluminous black cloak, his pale left hand resting on the head of a wolf that stands beside him. The statue's right hand holds a smoky-gray crystal orb, and its painted gaze stares down toward you, a cold and cruel glint to its eye.</p>
-<p>Five ashen shadows are burned into the walls, with soot marks stretching across the floor toward the statue.</p>
-<p>The room has exits to the west and north. Chanting can be heard coming from the north.</p>
+<p>Deze kamer is versierd met beschimmelde skeletten die aan roestige ketenen tegen de muren hangen, met hun mond open in een stille schreeuw. </p>
+<p>In een brede nis in de zuidelijke muur staat een beschilderd houten beeld, gesneden naar het evenbeeld van een magere man met een bleek gezicht, gekleed in een wijdvallende zwarte mantel; zijn bleke linkerhand rust op de kop van een wolf die naast hem staat. De rechterhand van het beeld houdt een rookgrijze kristallen bol vast, en de geschilderde blik staart naar beneden, naar jou, met een koude en wrede glinstering in het oog.</p>
+<p>Vijf asgrauwe schaduwen zijn in de muren ingebrand, met roetvlekken die zich over de vloer uitstrekken in de richting van het beeld.</p>
+<p>De kamer heeft uitgangen naar het westen en het noorden. Vanuit het noorden is gezang te horen.</p>
 </div>
 
 A player that approaches the orb can hear many voices whispering the following phrases:
@@ -1030,7 +1035,7 @@ This room is largely as described in <span class="citation">Hidden Trapdoor (p. 
 When the players find and enter this area, read:
 
 <div class="description">
-<p>The clay staircase ends at a cramped landing. Six feet above the ground, a half-rotted ceiling of close-fitting planks holds a closed wooden trapdoor leading to an upper floor. The trapdoor is bolted shut from this side.</p>
+<p>De kleitrap komt uit op een krappe overloop. Zes voet boven de grond bevindt zich een half verrot plafond van strak tegen elkaar liggende planken, met daarin een gesloten houten luik dat naar een bovenverdieping leidt. Het luik is vanaf deze kant vergrendeld.</p>
 </div>
 
 ### Cult Leader’s Den
@@ -1042,7 +1047,7 @@ This room is largely as described in <span class="citation">Cult Leaders’ Den 
 However, remove the **mimic** from this area. In addition, when the players enter this room, read:
 
 <div class="description">
-<p>This quiet room contains a wooden table flanked by two high-backed chairs and holding a clay jug and two flagons. Above the table is suspended an unlit cast-iron chandelier. Iron candlesticks stand in two corners of the chamber, their candles long since melted away. A short corridor at the north end of the room leads to a darkened chamber beyond.</p>
+<p>In deze stille kamer staat een houten tafel, geflankeerd door twee stoelen met hoge rugleuningen, waarop een aardewerken kruik en twee wijnkannen staan. Boven de tafel hangt een onbelichte gietijzeren kroonluchter. In twee hoeken van de kamer staan ijzeren kandelaars, waarvan de kaarsen al lang geleden zijn gesmolten. Een korte gang aan de noordkant van de kamer leidt naar een verduisterde kamer daarachter.</p>
 </div>
 
 ### Cult Leader’s Quarters
@@ -1057,8 +1062,8 @@ This room is largely as described in <span class="citation">Cult Leaders’ Quar
 When the players enter this room, read:
 
 <div class="description">
-<p>This room contains a large wood-framed bed, the feather mattress rotted by years of disuse. An old wooden wardrobe carved with demonic faces stands against the wall to the left, and a faded wooden footlocker stands quietly at the foot of the bed.</p>
-<p>The room is suffused with a familiar stench of death—but far stronger, mixing with a noxious scent that fills your lungs with every breath.</p>
+<p>In deze kamer staat een groot bed met houten frame, waarvan het verenmatras door jarenlang ongebruik is verrot. Tegen de linkerwand staat een oude houten kledingkast met uitgesneden demonische gezichten, en aan het voeteneinde van het bed staat stilletjes een vervaagde houten kist.</p>
+<p>De kamer is doordrongen van een bekende stank van de dood – maar dan veel sterker, vermengd met een giftige geur die bij elke ademhaling je longen vult.</p>
 </div>
 
 The wardrobe contains several old robes, a pair of iron candlesticks, and an open crate containing thirty torches and a leather sack with fifteen candles inside it. A rotting aroma also emanates from a pair of rotted organs—a half-eaten liver and a gnawed intestine—lying hidden beneath the hems of the robes.
@@ -1092,28 +1097,28 @@ No **ghasts** attack if a player removes any items from the foot locker, and the
 
 This room is largely as described in <span class="citation">Reliquary (p. 219)</span>.
 >The ghostly chant emanating from area 38 fills this room. Characters can discern a dozen or so voices say• ing, over and over, "He is the Ancient. He is the Land." The cult amassed several "relics" that it used in its rituals. These worthless items are stored in thirteen niches along the walls:
-> - A small, mummified, yellow hand with sharp claws (a goblin's hand) on a loop of rope
-> - A knife carved from a human bone • A dagger with a rat's skull set into the pommel
-> - An 8-inch-diameter varnished orb made from a nothic's eye
-> - An aspergillum carved from bone
-> - A folded cloak made from stitched ghoul skin
-> - A desiccated frog lashed to a stick (could be mistaken for a wand of polymorph)
-> - A bag full of bat guano
-> - A hag's severed finger
-> - A 6-inch-tall wooden figurine of a mummy, its arms crossed over its chest
-> - An iron pendant adorned with a devil's face
-> - The shrunken, shriveled head ofa halfling
-> - A small wooden coffer containing a dire wolf's with- ered tongue
+> - Een kleine, gemummificeerde, gele hand met scherpe klauwen (de hand van een goblin) aan een touwlus
+> - Een mes gesneden uit een menselijk bot • Een dolk met een ratten schedel in het handvat
+> - Een gelakte bol met een diameter van 8 inch, gemaakt van het oog van een nothic
+> - Een aspergillum, uit bot gesneden
+> - Een opgevouwen mantel, gemaakt van aan elkaar genaaide ghoulhuid
+> - Een uitgedroogde kikker die aan een stok is vastgebonden (zou kunnen worden aangezien voor een toverstok van polymorfie)
+> - Een zak vol vleermuizenmest
+> - Een afgehakte vinger van een heks
+> - Een 6-inch hoog houten beeldje van een mummie, met de armen over de borst gekruist
+> - Een ijzeren hanger versierd met een duivelsgezicht
+> - Het gekrompen, verschrompelde hoofd van een halfling
+> - Een kleine houten kist met daarin de verdorde tong van een direwolf
 >
 >The southernmost tunnel slopes down at a 20-degree angle into murky water and ends at a rusty portcullis (area 37).
 
 When the players enter this room, read:
 
 <div class="description">
-<p>The dusty stone steps descend past a landing and around a bend until they end at a cold, rectangular chamber. A thin, wafting mist clings to the ground, and the wooden cross beams that support the ceiling groan beneath the weight of the house and underground complex above. </p>
-<p>The walls of this room are cut with small, chiseled alcoves, each holding a strange, ghastly trinket or relic. A corridor with a sagging ceiling exits the chamber and bends out of sight to the right. Past it, you can see a stone slope that descends into black, murky water. The ghostly chant you've heard since entering the basement is strongest here, and seems to be emanating from the other side of a rusted, closed portcullis.</p>
-<p>You can finally understand the words.</p>
-<p>They say, over and over again, in a ceaseless refrain:</p>
+<p>De stoffige stenen trap daalt langs een bordes en rond een bocht, totdat hij uitkomt bij een koude, rechthoekige kamer. Een dunne, zwevende mist kleeft aan de grond, en de houten dwarsbalken die het plafond ondersteunen, kreunen onder het gewicht van het huis en het ondergrondse complex erboven. </p>
+<p>In de muren van deze kamer zijn kleine, uitgehouwen nissen aangebracht, waarin telkens een vreemd, griezelig snuisterijtje of relikwie ligt. Een gang met een doorhangend plafond loopt vanuit de kamer naar rechts en buigt daar uit het zicht. Daarachter zie je een stenen helling die afdaalt naar zwart, troebel water. Het spookachtige gezang dat je al sinds je de kelder bent binnengekomen hoort, is hier het sterkst en lijkt afkomstig te zijn van de andere kant van een verroest, gesloten valhek.</p>
+<p>Je kunt de woorden eindelijk verstaan.</p>
+<p>Ze zeggen, keer op keer, in een onophoudelijk refrein:</p>
 <p>"He is the Ancient."</p>
 <p>"He is the Land."</p>
 </div>
@@ -1133,7 +1138,7 @@ This room is largely as described in <span class="citation">Prison (p. 219)</spa
 When the players enter this room, read:
 
 <div class="description">
-<p>The sound of clinking chains melds with a quiet, near-imperceptible rustling as you round the bend into a long, darkened dungeon. Rusted shackles hang patiently from the walls, as if waiting to bite into prisoners' flesh once more.</p>
+<p>Het geluid van rinkelende kettingen vermengt zich met een zacht, bijna onhoorbaar geritsel terwijl je de bocht omgaat en een lange, donkere kerker binnenstapt. Verroeste boeien hangen geduldig aan de muren, alsof ze erop wachten om zich opnieuw in het vlees van gevangenen te bijten.</p>
 </div>
 
 ### Portcullis
@@ -1145,7 +1150,7 @@ This area is largely as described in <span class="citation">Portcullis (p. 219)<
 When the players approach this area, read:
 
 <div class="description">
-<p>The floor is submerged beneath two feet of dark, murky water that sloshes around your calves and boots. The tunnel forward is blocked by a rusty iron portcullis. Beyond its iron bars, you can make out the dark outline of a half-submerged chamber, a raised stone dais, and a thick cloud of rolling mist.</p>
+<p>De vloer staat onder twee voet donker, troebel water dat tegen je kuiten en laarzen klotst. De tunnel verderop wordt geblokkeerd door een roestig ijzeren valhek. Achter de ijzeren tralies kun je de donkere contouren onderscheiden van een half onder water staande kamer, een verhoogd stenen podium en een dikke wolk van golvende mist.</p>
 </div>
 
 The wooden wheel that opens the portcullis remains on the western side of the gate (i.e., the side facing the [[#Ritual Chamber]]). However, the chain-link mechanism to open the portcullis has broken, preventing the players from proceeding without repairing it (e.g., by using Rose’s _mending_ cantrip) or lifting the portcullis by hand. (If the players lift the portcullis by hand and then release it, its weight causes it to shut once more unless propped open.)
@@ -1163,9 +1168,9 @@ This room is largely as described in <span class="citation">Ritual Chamber (p. 2
 The water is 2ft deep and should be treated as difficult terrain for Medium creatures or smaller. Climbing from the pool to the ledges also counts as difficult terrain. When the players enter this room, read:
 
 <div class="description">
-<p>The smooth masonry walls of this forty-foot-square room provide excellent acoustics. Featureless stone pillars support the ceiling, and murky water covers most of the floor. Stairs lead up to dry stone ledges that hug the walls. In the middle of the room, more stairs rise to form an octagonal dais that also rises above the water. Rusty chains with shackles dangle from the ceiling directly above a stone altar mounted on the dais. The altar is carved with hideous depictions of grasping ghouls and is stained with dry blood. A small, white bundle lies atop it, surrounded by pulsating, fleshy tendrils.</p>
-<p>The tendrils run to a breach in the far wall that leads to a dark cave, their fleshy masses connecting to a dark, hulking shadow that lies within, its bloated mass rising and falling with a slow, shuddering rhythm.</p>
-<p>As soon as you step foot into the chamber, the ghostly chanting you've heard suddenly falls silent.</p>
+<p>De gladde stenen muren van deze ruimte zorgen voor een uitstekende akoestiek. Simpele stenen pilaren ondersteunen het plafond, en troebel water bedekt het grootste deel van de vloer. Trappen leiden omhoog naar droge stenen richels die langs de muren lopen. In het midden van de ruimte lopen nog meer trappen omhoog naar een achthoekig podium dat eveneens boven het water uitsteekt. Roestige kettingen met boeien bungelen aan het plafond, direct boven een stenen altaar dat op het podium is geplaatst. Het altaar is versierd met afschuwelijke afbeeldingen van grijpende geesten en is bevlekt met opgedroogd bloed. Er ligt een klein, wit bundeltje bovenop, omringd door pulserende, vlezige ranken.</p>
+<p>De ranken lopen naar een opening in de achterste muur die naar een donkere grot leidt; hun vlezige massa’s zijn verbonden met een donkere, kolossale schaduw die daarbinnen ligt, waarvan de opgezwollen massa op en neer gaat in een langzaam, huiverend ritme.</p>
+<p>Zodra je de kamer binnenstapt, verstomt het spookachtige gezang dat je hebt gehoord plotseling.</p>
 </div>
 
 A player that approaches the altar sees that the words "FEED HIM" are carved into its flat stone surface just below the white bundle, surrounded by several fleshy tendrils inset with human teeth. The tendrils belong to the **flesh mound** (see below), which awakens and attacks if the tendrils are damaged.
@@ -1183,6 +1188,8 @@ The flesh mound awakens if attacked. When it does, its subsequent screeching wai
 In combat, the flesh mound begins in its first form, **the flesh mound**. For one minute after it has awoken, the flesh mound’s **_heavy sleeper_** feature reduces the power of its ***multiattack*** actions in either form. If attacked whilst asleep, the flesh mound will have the ***Surprised*** condition.
 
 A creature engulfed by the mound’s first form can hear the faint sound of a baby crying at the center of its swollen bulk.
+
+![[WalterFleshMound.png]]
 
 > [!item]+ **Elisabeth's Amber Shard**
 >
@@ -1337,9 +1344,9 @@ When the **flesh mound** dies, the players can hear the sound of the house’s f
 When the players next begin to move toward the exit, read:
 
 <div class="description">
-<p>A guttural moan ripples through the air—and a terrifying apparition manifests before you: the spirit of Elisabeth Durst, her once-beautiful features now grotesquely distorted. Her lustrous hair is a wild, disheveled mess, her skin a deathly pallor, and her lips peeling back to reveal sharp, yellowed teeth. An amber shard glows ominously on a cord around her spectral neck, a shadowed wisp swirling within its depths.</p>
-<p>The spirit levitates high above the floor, sunken eyes blazing with malice and mouth twisted into a snarl. "You may have evaded my pet," it rasps, "but I will tear this house apart before I let you escape." It throws its head back and lets loose a blood-curdling scream that reverberates across the stone walls—and sets the very foundations of the house trembling.</p>
-<p>Far above, the grandfather clock begins to chime, the sound mounting to a thunderous cacophony. Dust and debris rain down as the floor shakes beneath you, the wooden cross beams of the ceiling starting to splinter and crack. Elisabeth's spirit fixes you with a feral grin—and then dissipates into thin air, leaving only echoes of its spiteful laughter as the house rumbles, shifts, and groans.</p>
+<p>Een keelgeluid weerklinkt door de lucht — en een angstaanjagende verschijning manifesteert zich voor je: de geest van Elisabeth Durst, wier eens zo mooie gelaatstrekken nu grotesk vervormd zijn. Haar glanzende haar is een wilde, verwarde warboel, haar huid is doodsbleek en haar lippen trekken terug om scherpe, vergeelde tanden te onthullen. Een amberkleurige scherf gloeit onheilspellend aan een koord om haar spookachtige nek, met een schaduwrijke sliert die in de diepte ervan rondwervelt.</p>
+<p>De geest zweeft hoog boven de vloer, haar ingevallen ogen vlammen van kwaadaardigheid en haar mond is verwrongen tot een grom. "You may have evaded my pet," kraakt ze, "but I will tear this house apart before I let you escape!“ Ze gooit haar hoofd achterover en slaakt een bloedstollende schreeuw die weerklinkt tegen de stenen muren – en de fundamenten van het huis doet trillen.</p>
+<p>Hoog boven je begint de staande klok te luiden, waarbij het geluid aanzwelt tot een donderende kakofonie. Stof en puin regenen naar beneden terwijl de vloer onder je schudt; de houten dwarsbalken van het plafond beginnen te versplinteren en te barsten. De geest van Elisabeth staart je aan met een woeste grijns – en verdwijnt dan in het niets, waarbij alleen echo’s van haar hatelijke gelach achterblijven terwijl het huis rommelt, verschuift en kreunt.</p>
 </div>
 
 The players must flee from the ritual chamber to the [[#Entrance]] of Death House before the entire structure collapses upon their heads. However, they don't need to roll initiative, and the architectural changes described in <span class="citation">The Cult is Denied (p. 220)</span> are not present. 
@@ -1349,8 +1356,8 @@ Instead, as the players escape the crumbling Death House, they face two addition
 ***Gustav's Ghost.*** As the players move to exit the [[#Reliquary]], the ghost of Gustav Durst (use the statistics of a **poltergeist**, but without its ***invisibility*** feature) confronts them. Read:
 
 <div class="description">
-<p>An ethereal apparition appears before you, obstructing the stairs—the ghost of a man. He is a gaunt and pale figure, with sunken, haunted eyes and trembling hands, wearing once-fine clothing now tattered with age.</p>
-<p>"Please," the spirit says, tears beading at the corners of his eyes. "You have to stay here and die. She won't accept anything else."</p>
+<p>Er verschijnt een etherische verschijning voor je, die de trap verspert: de geest van een man. Hij is een uitgemergelde en bleke gestalte, met ingevallen, gekwelde ogen en trillende handen, gekleed in kleding die ooit mooi was, maar nu door ouderdom versleten is.</p>
+<p>"Please,” zegt de geest, terwijl er tranen in zijn ooghoeken parelen. "You have to stay here and die. She won't accept anything else."</p>
 </div>
 
 The spirit is recognizable as Gustav Durst. Gustav pleads with the players to give up, insisting that Elisabeth's spirit is simply too powerful—too fearsome—to disobey. A DC 10 Wisdom (Insight) check reveals that Gustav is terrified of Elisabeth—and ridden with guilt, doubt, and self-loathing.
@@ -1384,7 +1391,7 @@ If the players successfully persuade Gustav to stand aside, he warns them that "
 ***The Cult's Return*** When the players first reach the [[#Family Crypts]] or (if they have previously found and opened the hidden trapdoor described in **32. Hidden Trapdoor**, p. 219) near the [[#Darklord’s Shrine]], the spirits of the cult arise to stop them. Read:
 
 <div class="description">
-<p>The chanting rises once more as thirteen dark apparitions appear around you, obstructing the way forward—as well as the way back. Each one resembles a black-robed figure holding a torch, but the torch's fire is black and seems to draw light into it. Where you'd expect to see faces are voids. "He is the Ancient!" they chant, over and over. "He is the Land!"</p>
+<p>Het gezang zwelt opnieuw aan terwijl er dertien duistere verschijningen om je heen verschijnen, die zowel de weg vooruit als de weg terug versperren. Ze lijken allemaal op een in een zwarte mantel gehulde figuur met een fakkel in de hand, maar het vuur van de fakkel is zwart en lijkt het licht naar zich toe te trekken. Waar je gezichten zou verwachten, is slechts leegte.  "He is the Ancient!" zingen ze, keer op keer. "He is the Land!"</p>
 </div>
 
 The apparitions are harmless and intangible figments that can't be damaged, turned, or dispelled. At the end of each round, each player that remains between the apparitions must succeed on a DC 10 Dexterity saving throw or take 2 (1d4) bludgeoning damage from falling debris.
