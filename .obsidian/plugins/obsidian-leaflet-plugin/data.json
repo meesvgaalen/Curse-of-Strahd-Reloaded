@@ -542,7 +542,7 @@
     {
       "id": "deathhousefst-map",
       "locked": true,
-      "lastAccessed": 1786546532366,
+      "lastAccessed": 1789304811700,
       "markers": [
         {
           "id": "ID_68284a4a3a28",
@@ -639,7 +639,7 @@
     {
       "id": "deathhousesnd-map",
       "locked": true,
-      "lastAccessed": 1786546532366,
+      "lastAccessed": 1789304811700,
       "markers": [
         {
           "id": "ID_fbc9c80a8b59",
@@ -736,7 +736,7 @@
     {
       "id": "deathhousetrd-map",
       "locked": true,
-      "lastAccessed": 1786546532366,
+      "lastAccessed": 1789304811700,
       "markers": [
         {
           "id": "ID_68cb99f839e8",
@@ -833,7 +833,7 @@
     {
       "id": "deathhousefrt-map",
       "locked": true,
-      "lastAccessed": 1786546532366,
+      "lastAccessed": 1789304811700,
       "markers": [
         {
           "id": "ID_f80a48386b98",
@@ -930,20 +930,23 @@
     {
       "id": "deathhousedng-map",
       "locked": true,
-      "lastAccessed": 1786546532366,
+      "lastAccessed": 1789304811700,
       "markers": [
         {
           "id": "ID_780a6829b91b",
           "type": "default",
           "loc": [
-            3834.1133356666487,
-            2455.580087979921
+            3520,
+            2480.00341196155
           ],
           "link": "Walter",
           "layer": "%5B%5BDeathHousedng.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.4052293156799918,
+            -0.43137254901960786
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -953,14 +956,17 @@
           "id": "ID_e9880918ea9a",
           "type": "default",
           "loc": [
-            3536.109645958577,
-            2479.5897034893433
+            3822,
+            2493.9744102883765
           ],
           "link": "Empty",
           "layer": "%5B%5BDeathHousedng.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.40751215854385237,
+            -0.46838235294117647
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,

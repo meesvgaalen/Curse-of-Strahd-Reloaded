@@ -1356,7 +1356,7 @@ Instead, as the players escape the crumbling Death House, they face two addition
 ***Gustav's Ghost.*** As the players move to exit the [[#Reliquary]], the ghost of Gustav Durst (use the statistics of a **poltergeist**, but without its ***invisibility*** feature) confronts them. Read:
 
 <div class="description">
-<p>Er verschijnt een etherische verschijning voor je, die de trap verspert: de geest van een man. Hij is een uitgemergelde en bleke gestalte, met ingevallen, gekwelde ogen en trillende handen, gekleed in kleding die ooit mooi was, maar nu door ouderdom versleten is.</p>
+<p>Er verschijnt een etherische verschijning voor je, die de trap blokkeert: de geest van een man. Hij is een uitgemergelde en bleke gestalte, met ingevallen, gekwelde ogen en trillende handen, gekleed in kleding die ooit mooi was, maar nu door ouderdom versleten is.</p>
 <p>"Please,” zegt de geest, terwijl er tranen in zijn ooghoeken parelen. "You have to stay here and die. She won't accept anything else."</p>
 </div>
 
