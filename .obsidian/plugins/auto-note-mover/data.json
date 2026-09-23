@@ -4,15 +4,15 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "",
+      "folder": "_Sessies",
       "tag": "",
-      "pattern": ""
+      "pattern": "^Sessie\\s.+"
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
   "excluded_folder": [
     {
-      "folder": ""
+      "folder": "images"
     }
   ]
 }
