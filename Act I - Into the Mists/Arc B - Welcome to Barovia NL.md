@@ -542,7 +542,7 @@ Dusk falls soon after the players complete their preparations. Read:
 
 <div class="description">
 <p>Terwijl de laatste lichtstralen uit de hemel verdwijnen, daalt er een griezelige stilte neer over het dorp. Een kille wind suist door de straten en draagt de vage geur van verval met zich mee, terwijl de bladeren van het Svalich-bos in de verte ritselen.</p>
-<p>Een bloedstollend gehuil doorbreekt de nacht, gevolgd door een tweede – en dan een derde. De kakofonie van onmenselijke kreten en gekreun wordt luider en weerklinkt vanuit alle richtingen door het dal, terwijl het verre bos tot leven lijkt te komen.</p>
+<p>Een bloedstollend gehuil doorbreekt de nacht, gevolgd door een tweede – en dan een derde. Een zee van onmenselijke kreten en gekreun wordt luider en weerklinkt vanuit alle richtingen door het dal, terwijl het bos tot leven lijkt te komen.</p>
 </div>
 
 If he is present, Bildrath’s face grows grim, and he grips his crossbow tightly. “It begins," he mutters, as the din fades once more into the cold night. Parriwimple nods in determination, clutching his spear closer to his chest.
@@ -586,7 +586,7 @@ If he is present, Bildrath’s face grows grim, and he grips his crossbow tightl
 ***The First Wave.*** Not long after darkness falls, six **zombies** emerge from the darkness and approach the barricade. Read:
 
 <div class="description">
-<p>Six figures shamble toward the barricade, the whites of their eyes glinting in the torchlight. Their low, guttural moans echo through the night, their rotting arms outstretched toward you.</p>
+<p>Zes figuren strompelen naar de barricade, het wit van hun ogen glinstert in het licht. Hun lage, gorgelende gekreun galmt door de nacht, en hun rottende armen strekken zich naar je uit.</p>
 </div>
 
 In combat, the zombies focus their attacks on the barricade, attempting to batter it down with their **slam** attacks. Once the zombies have broken a hole in the barricade, they attempt to flood through it, attacking any defenders who stand in their way.
@@ -594,7 +594,7 @@ In combat, the zombies focus their attacks on the barricade, attempting to batte
 ***The Second Wave.*** At the beginning of the third round of combat after the first wave arrives, two additional **zombies** emerge from the darkness, joined by two **ghouls**. Read:
 
 <div class="description">
-<p>Two more zombies shamble from the gloom, flanked by a pair of gaunt, feral, humanoid creatures with razor-sharp claws and hungry, glowing eyes. These ghouls move with a predatory grace, their lipless mouths revealing rows of pointed teeth as they release shrieking howls that echo through the night.</p>
+<p>Nog twee zombies strompelen uit de duisternis tevoorschijn, naast een paar uitgemergelde, wilde, mensachtige wezens met vlijmscherpe klauwen en hongerige, gloeiende ogen. Deze ghouls bewegen zich als roofdieren; hun lippenloze monden hebben rijen puntige tanden die je perfect kan zien terwijl ze hun gillende kreten slaken.</p>
 </div>
 
 The zombies again attempt to batter down the barricade, while the ghouls attempt to climb over it using their claws.
@@ -602,7 +602,7 @@ The zombies again attempt to batter down the barricade, while the ghouls attempt
 ***The Third Wave.*** At the beginning of the seventh round of combat after the first wave arrives, a **wight** and a **zombie plague spreader** <span class="citation">(<em>Van Richten’s Guide to Ravenloft</em>, p. 255)</span> approach the barricade. Read:
 
 <div class="description">
-<p>A lone undead shambles slowly from the darkness, its white eyes staring dully past the flickering torchlight. Its flesh, though rotting, is a smooth, sickly white, its skin run through with raised, crimson veins. A faint cloud of reddish mist spills continually from its mouth and down onto the bloodstained earth before dissipating into the air.</p>
+<p>Een enkele ondode strompelt langzaam uit de duisternis tevoorschijn, terwijl zijn witte ogen dof langs het flikkerende fakkellicht staren. Zijn huid is verrot, maar glad en ziekelijk wit. Een vage wolk van roodachtige mist stroomt voortdurend uit zijn mond en daalt neer op de met bloed bevlekte aarde, voordat hij in de lucht oplost.</p>
 </div>
 
 > [!info]+ **The Plague Spreader**
@@ -618,7 +618,7 @@ Meanwhile, the wight attacks from the darkness beyond the torches’ light, maki
 Shortly after the players dispatch the final wave, the **wereraven** Muriel appears to them in **raven** form. Read:
 
 <div class="description">
-<p>A small, dark silhouette plunges from the skies above, resolving into the form of a familiar raven, its blue-tipped wings flashing in the torchlight. Its eyes are wide and panicked, and an urgent, desperate shriek sounds repeatedly from its wide-open beak.</p>
+<p>Een klein, donker silhouet stort vanuit de lucht naar beneden en blijkt een bekende raaf te zijn, waarvan de vleugels met blauwe punten flitsen in het fakkellicht. Zijn ogen zijn wijd open en vol paniek, en uit zijn wijd open snavel klinkt herhaaldelijk een dringende, wanhopige kreet.</p>
 </div>
 
 Although she can’t speak in raven form, Muriel attempts to nonverbally alert the players that the western barricade has fallen, pulling their hair and clothes toward the town square. If the players don’t immediately follow, read:
@@ -675,8 +675,8 @@ Shortly after the players defeat the plague spreader, a lone horseman flanked by
 
 <div class="description">
 <p>Je hoort het geluid van hoefstappen die door de modder ploeteren. Uit de schaduwen op de westelijke weg komt een in een mantel gehulde man tevoorschijn, rijdend op een asgrijs paard met doffe, donkere ogen. Achter hem slenteren 12 strompelende zombies, die de ruiter aan beide kanten begeleiden. Zes aan elke kant.</p>
-<p>Het flikkerende fakkellicht kleurt de gelaatstrekken van de man in tinten van brandend oranje en rood, en onthult een lange, lenige gestalte met een donkere huidskleur en lang, zwart haar dat tot over zijn nek valt. Over zijn schouders is een lichte mantel gedrapeerd, waarvan de rand is afgezet met dik, wit bont, en zijn handen zijn bedekt met handschoenen van soepel zwart leer. Onder een laag stevig, maar soepel leren harnas is een diepblauwe tuniek te zien, afgezet met brons, en aan zijn riem hangt een gebogen sabel in een schede, met daarboven een paar scimitars op zijn rug vastgebonden.</p>
-<p>Zijn oren lopen scherp naar boven toe toe in elfachtige punten, en zijn donkerbruine ogen stralen een rustige waakzaamheid uit en een nonchalante, bijna roofzuchtige blik terwijl ze langzaam over zijn omgeving glijden. Een lang, gruwelijk litteken snijdt dwars over zijn voorhoofd, net boven de plek waar rimpels zijn gezicht beginnen te tekenen door ouderdom, en zijn lippen zijn teruggetrokken in een dunne, voortdurende frons.</p>
+<p>Het flikkerende fakkellicht kleurt het gezicht van de man in tinten van brandend oranje en rood, en onthult een lange, lenige gestalte met een donkere huidskleur en lang, zwart haar dat tot over zijn nek valt. Over zijn schouders is een lichte mantel gedrapeerd, waarvan de rand is afgezet met dik, wit bont, en zijn handen zijn bedekt met handschoenen van soepel zwart leer. Onder een laag stevig, maar soepel leren harnas is een diepblauwe tuniek te zien, afgezet met brons, en aan zijn riem hangt een gebogen sabel in een schede, met daarboven een paar scimitars op zijn rug vastgebonden.</p>
+<p>Zijn oren lopen scherp naar boven toe toe in elfachtige punten, en zijn donkerbruine ogen stralen een rustig uit en een nonchalante, bijna roofzuchtige blik terwijl ze langzaam over zijn omgeving glijden. Een lang, gruwelijk litteken snijdt dwars over zijn voorhoofd, net boven de plek waar rimpels zijn gezicht beginnen te tekenen door ouderdom.</p>
 </div>
 
 This is Rahadin, riding his *phantom steed*. As he comes to a halt at the edge of the town square, he pulls a scroll from his cloak and unfurls. If not interrupted, he begins to read from it, his resonant voice carrying across the square:
@@ -838,7 +838,7 @@ If the players follow Ismark to the burgomaster’s mansion, they find its groun
 Ismark and the players can find Kolyan and Ireena in the first-floor parlor. Read:
 
 <div class="description">
-<p>A red pool surrounds the burgomaster’s unmoving form, his glassy eyes staring unseeing toward the ceiling as blood drips from a long, elegant slash across his chest. Not far away, Ireena lies crumpled across the carpet beneath a boarded-up window, its ragged curtains drifting lazily in the cold wind.</p>
+<p>Een rode plas omringt het levenloze lichaam van de burgemeester, terwijl zijn glazige ogen doelloos naar het plafond staren en het bloed uit een lange, bijna elegante snee over zijn borst druppelt. Niet ver daarvandaan ligt Ireena ineengezakt op het tapijt onder een dichtgetimmerd raam, waarvan de gescheurde gordijnen lichtjes wapperen in de koude wind.</p>
 </div>
 
 Upon arriving, Ismark lets out a strangled cry of anguish, and immediately descends to cradle his father’s head in his hands.
@@ -998,7 +998,7 @@ If the players agree, Donavich produces the key to the padlock in <span class="c
 The undercroft is largely as described in <span class="citation">E5g. Undercroft (p. 47)</span>. However, modify the last sentence of the description as follows: 
 
 <div class="description">
-<p>Candlelight from the chapel above slips through the cracks, but there's no sign of any creature in the gloom.</p>
+<p>De crypte van de kerk heeft ruw uitgehouwen muren en een vloer van vochtige klei en aarde. Rottende houten pilaren kraken onder het gewicht van het houten plafond. Kaarslicht uit de kapel erboven sijpelt door de kieren naar binnen, maar in de duisternis is geen enkel levend wezen te bekennen.</p>
 </div>
 
 Doru, a **vampire spawn**, has used his ***spider climb*** feature to cling to the ceiling at the sound of the players’ approach. A player with a passive Wisdom (Perception) score of 16 or higher automatically spots him in the darkened upper corner on the far side of the room. Otherwise, read the following after one round has passed.
@@ -1010,8 +1010,8 @@ Doru, a **vampire spawn**, has used his ***spider climb*** feature to cling to t
 Doru prefers to speak with the players from the safety of darkness, but won’t refuse if the players command him to reveal himself. If he does, read the following:
 
 <div class="description">
-<p>From the darkness of the cross beams above, a figure unfurls itself like a moth from its cocoon, moving like a spider as it lowers itself slowly to the ground. As it comes into the faint light, the shadow resolves into the form of a young man, his youthful features strikingly reminiscent of Father Donavich.</p>
-<p>His skin is ghostly pale, with dirt and grime streaked across his face. His clothes are ripped and worn, and his hair is an unkempt mess of tangles and knots. His eyes are red and bloodshot, his gaze darting from face to face. A leather cord hangs around his neck, holding a bloodstained bronze sunburst that rests against his chest. He swallows and licks his lips—and a pair of pointed fangs pokes through.</p>
+<p>Vanuit de duisternis van de dwarsbalken boven hem komt een gestalte tevoorschijn, en beweegt zich als een spin terwijl hij zich langzaam naar de grond laat zakken. Wanneer hij in het zwakke licht komt, vormt de schaduw zich tot de gestalte van een jonge man, van wie de jeugdige uitstraling opvallend veel doet denken aan pater Donavich.</p>
+<p>Zijn huid is spookachtig bleek, met strepen van vuil en roet over zijn gezicht. Zijn kleren zijn gescheurd en versleten, en zijn haar is een onverzorgde warboel van klitten en knopen. Zijn ogen zijn rood en bloeddoorlopen, zijn blik schiet van gezicht naar gezicht. Om zijn nek hangt een leren koord, waaraan een met bloed bevlekte bronzen zonneschijf hangt die tegen zijn borst rust. Hij slikt en likt zijn lippen – en een paar puntige hoektanden steken tevoorschijn.</p>
 <p>"If you want to kill me, I won't stop you," he says, his voice cracking. "But I just have one request first."</p>
 </div>
 <br>
@@ -1074,8 +1074,8 @@ If told that Gertruda has left the village alone for Vallaki—likely in a misgu
 If the players agree to fulfill Doru’s request by exposing him to fresh blood, he asks them to remain silent while he resists—and to strike him down if he succumbs. When the trial begins, read the following:
 
 <div class="description">
-<p>Doru’s muscles tense and he squeezes his eyes shut. A few moments later, his nostrils flare, and a thin line of saliva begins to run down his lips. He whimpers, his clawed fingers flexing and twitching.</p>
-<p>"When the shadows come," he whispers, “I will not yield. Darkness is the destroyer, and temptation its weapon. I will face the night and its horrors and await the horizon. For in the light of the Morninglord's love, only light can remain."</p>
+<p>Doru’s spieren spannen zich en hij knijpt zijn ogen dicht. Even later trillen zijn neusvleugels en begint er een dun druppeltje speeksel langs zijn lippen te lopen. Hij snikt, terwijl zijn klauwachtige vingers zich buigen en trillen.</p>
+<p>"When the shadows come," he whispers, “I will not yield. Darkness is the destroyer, and temptation its weapon. I will face the night and its horrors and await the horizon. For in the light of the Morninglord's love, only good can remain."</p>
 <p>Doru's voice shakes, his emaciated body trembling. One fist is clenched at his side, the other squeezing the bloodstained sunburst that lies across his neck.</p>
 <p>"In the light of the Morninglord's love," he repeats, gasping for breath. "In the light of the Morninglord's love. Gertruda. Gertruda. <b><em>Gertruda</em></b>  —"</p>
 </div>
@@ -1085,7 +1085,7 @@ If Doru succumbs to the bloodlust (see **Doru Will Remember That** above), he pa
 Otherwise, if Doru successfully resists the bloodlust, read:
 
 <div class="description">
-<p>After what seems like an eternity, Doru's body finally relaxes. His tense muscles seem to uncoil, his breath grows steadier, and the look of strain fades from his face. His eyes remain closed a moment longer, then flutter open—and the fangs in his mouth slowly retract, leaving only an ordinary pair of canines behind.</p>
+<p>Na wat een eeuwigheid lijkt, ontspant Doru’s lichaam zich eindelijk. Zijn gespannen spieren lijken zich te herstellen, zijn ademhaling wordt rustiger en de gespannen uitdrukking op zijn gezicht verdwijnt. Zijn ogen blijven nog even gesloten, dan gaan ze langzaam open — en de hoektanden in zijn mond trekken zich langzaam terug, waardoor er alleen een gewoon paar mensenhoektanden overblijft.</p>
 <p>"I have not yielded," he whispers hoarsely. "Not yet."</p>
 </div>
 
@@ -1102,7 +1102,7 @@ If the players return to Father Donavich with his holy symbol in hand, he accept
 If the players tell Father Donavich that they killed Doru to obtain the symbol, read:
 
 <div class="description">
-<p>Donavich's eyes well up with tears as he clasps the symbol in his hands, holding it so tightly his knuckles begin to turn white. A strangled sob escapes him as he sinks to his knees, cradling the sunburst like an infant. </p>
+<p>Donavich krijgt tranen in zijn ogen terwijl hij het symbool in zijn handen klemt; hij houdt het zo stevig vast dat zijn knokkels wit beginnen te worden. Er ontsnapt hem een verstikte snik terwijl hij op zijn knieën zakt en de sunburst als een baby in zijn armen wiegt. </p>
 <p>"My boy—my dear, precious boy," he murmurs, his voice barely above a whisper. "May the Morninglord forgive me for what I've done—and for what I couldn't do." </p>
 <p>He swallows and his face tenses, his expression growing as hard as stone. "It had to be done. For his sake—and ours."</p>
 </div>
@@ -1171,8 +1171,8 @@ Because Strahd and his servants have only visited at night, Ismark isn't notably
 If the players visit the knoll, read:
 
 <div class="description">
-<p>As you pass through the sea of tall grasses north of the village, a gentle knoll rises before you, bordered on the far side by the clutches of the dark Svalich Wood. Plants with white, feathery flowers and a sweet, earthy scent seem to dance amidst the grass atop the hill, their leaves rustling in a whispering wind.</p>
-<p>A lonely tree stands atop the hill, its gnarled branches reaching skyward like outstretched arms. Beneath its shade kneels a female figure, her gaze fixated upon the ground.</p>
+<p>Als je door de zee van hoog gras ten noorden van het dorp loopt, doemt er een kleine heuvel voor je op, aan de andere kant afgegrensd door de donkere Svalich-bossen. Planten met witte, pluimachtige bloemen en een zoete, aardeachtige geur dansen tussen het gras op de top van de heuvel, terwijl hun bladeren ritselen in een zacht briesje.</p>
+<p>Op de top van de heuvel staat een eenzame boom, waarvan de knoestige takken als uitgestrekte armen naar de hemel reiken. In de schaduw ervan knielt Ireena, haar blik strak op de grond gericht.</p>
 </div>
 
 The figure is Ireena, who has donned her chestplate and rapier and now wears a red scarf around her neck. As the players approach, they can see that she is using a trowel to dig a hole in the earth between the tree's roots. Ireena, fixated upon her work, doesn't notice the players until they call out to her or otherwise enter her field of view.
