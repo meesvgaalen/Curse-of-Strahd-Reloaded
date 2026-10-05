@@ -239,7 +239,6 @@ However, Ismark doesn't mention a "mad wizard" and he doesn't suggest that the V
 Shortly after Ismark begins answering the players' questions, read:
 
 <div class="description">
-<p>Something slams against a nearby table—and the sound draws your attention to a man sitting not far away, his clenched fist twitching against his table's wooden surface. He is squat, with greasy receding salt-and-pepper hair and a patched, well-worn coat. A scowl mars his face as he turns his dark eyes toward your group. "It's a fool's errand to put your faith in Ismark the <em>Lesser</em>," he rasps, eyes lingering upon each of you. "Best to seek better company, lest you wind up in the ground with the last fools that trusted him."</p>
 <p>Er klinkt een harde klap tegen een tafel in de buurt – en het geluid trekt je aandacht naar een man die niet ver weg zit, terwijl zijn gebalde vuist tegen het houten oppervlak van zijn tafel trilt. Hij is kort, met vettig, dun grijs-zwart haar en een opgelapte, versleten jas. Een frons staat op zijn gezicht terwijl hij zijn donkere ogen op jullie groep richt. "It's a fool's errand to put your faith in Ismark the <em>Lesser</em>. Best to seek better company, lest you wind up in the ground with the last fools that trusted him."</p>
 </div>
 
@@ -333,6 +332,7 @@ When the players arrive, they find a mob of ten Barovian **commoners** has forme
 
 The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>.
 
+![[Kolyan.png]]
 ![[Ireena.png]]
 <span class="credit">"Ireena Kolyana" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -427,8 +427,8 @@ If the players ask about Doru's rebellion, Ireena can share the following inform
 During lunch, Kolyan invites the players to help him deliberate on a dilemma he’s been trying to solve, noting that he would find it useful to have “an outside perspective" on the matter. If the players agree to do so, read:
 
 <div class="description">
-<p>The burgomaster nods toward a sheet of parchment lying across a writing desk. On its surface, you can make out a crude drawing of the area around the village, with thin lines depicting the Old Svalich Road and the Ivlis River to the southwest, and darker shapes depicting the Svalich Wood to the north, west, and south.</p>
-<p>"Each night," he rumbles, “dozens of undead lay siege to our defenses, killing some and wounding many more. Instead of attacking all at once, however, they arrive in groups, with each wave striking our defenses separately, and almost randomly throughout the night. What do you make of that?"</p>
+<p>Kolyan knikt in de richting van een perkamenten vel dat op een schrijftafel ligt. Op het vel is een ruwe schets van de omgeving rond het dorp te zien, met dunne lijnen die de Old Svalich Road en de rivier de Ivlis in het zuidwesten aangeven, en donkerdere vormen die de Svalich Woods in het noorden, westen en zuiden weergeven.</p>
+<p>"Each night, dozens of undead lay siege to our defenses, killing some and wounding many more. Instead of attacking all at once, however, they arrive in groups, with each wave striking our defenses separately, and almost randomly throughout the night. What do you make of that?"</p>
 </div>
 
 After the players have discussed and answered Kolyan’s question, read:
@@ -503,7 +503,7 @@ Shortly after returning to the barricade at the eastern entrance to the village,
 When the players first encounter Parriwimple, read:
 
 <div class="description">
-<p>A hulking figure stands at Bildrath’s side—a young man, tall and brawny. His shaggy brown hair falls messily across his face, and his crooked teeth glint in the grey light. Though muscles ripple beneath his tunic, there's a lightness and immaturity to his posture that belies his strength and size. He fidgets with the hem of his tunic as your eyes fall upon him.</p>
+<p>Naast Bildrath staat een grote gestalte: een jonge man, lang en gespierd. Zijn warrige bruine haar valt rommelig over zijn gezicht en zijn scheve tanden glinsteren in het grijze licht. Hoewel zijn spieren onder zijn tuniek zichtbaar zijn, straalt zijn houding een lichtheid en onvolwassenheid uit die in contrast staan met zijn kracht en omvang. Hij friemelt aan de zoom van zijn tuniek wanneer je blik op hem valt. </p>
 </div>
 
 Bildrath greets the players warmly or coldly, depending on their interaction at the Blood of the Vine Tavern and (if they visited him there) Bildrath's Mercantile. Regardless of Bildrath’s disposition, Parriwimple is glad to meet new friends.
@@ -541,8 +541,8 @@ If any of the players treated him kindly at the Blood of the Vine Tavern or Bild
 Dusk falls soon after the players complete their preparations. Read:
 
 <div class="description">
-<p>As the last shades of light fade from the sky, an eerie silence descends upon the village. A chill wind whispers through the streets, carrying with it the faint scent of decay as the leaves of the Svalich Woods rustle in the distance.</p>
-<p>A blood-curdling howl pierces the night, followed by a second—and then a third. The cacophony of inhuman shrieks and moans grows louder, echoing across the basin from all directions as the distant forest seems to come alive.</p>
+<p>Terwijl de laatste lichtstralen uit de hemel verdwijnen, daalt er een griezelige stilte neer over het dorp. Een kille wind suist door de straten en draagt de vage geur van verval met zich mee, terwijl de bladeren van het Svalich-bos in de verte ritselen.</p>
+<p>Een bloedstollend gehuil doorbreekt de nacht, gevolgd door een tweede – en dan een derde. De kakofonie van onmenselijke kreten en gekreun wordt luider en weerklinkt vanuit alle richtingen door het dal, terwijl het verre bos tot leven lijkt te komen.</p>
 </div>
 
 If he is present, Bildrath’s face grows grim, and he grips his crossbow tightly. “It begins," he mutters, as the din fades once more into the cold night. Parriwimple nods in determination, clutching his spear closer to his chest.
@@ -631,9 +631,9 @@ Although she can’t speak in raven form, Muriel attempts to nonverbally alert t
 If the players follow her, Muriel guides them west toward the town square, then leads them through a series of alleyways behind and around the Blood of the Vine tavern, finally emerging on the north side of the street just west of the town square. When the players arrive, read:
 
 <div class="description">
-<p>Dozens of bodies litter the street, bloody and unmoving. The air is thick with the pungent scent of rot and death, and the howling wind sings with the sound of terrified screams.</p>
-<p>The barricade protecting the town square has been shattered, its splintered remains surrounded by a mound of corpses nearly six feet high. In the square, children scream as the elderly and infirm watch with muted horror.</p>
-<p>The torches to the west have been extinguished, the town’s western defenders fled—or killed. Only one figure remains standing: Ismark, his clothes torn and bloody, bearing a longsword in his left hand and a shortsword in his right. Twenty feet away from him stands a pale-skinned zombie, its flesh a smooth, sickly white that bulges with crimson veins. Its eyes stare dully toward the tents in the town square beyond, and, as a cloud of reddish mist spills gently from its gaping mouth, it takes a shambling step forward.</p>
+<p>Tientallen lichamen liggen verspreid over de straat, bebloed en roerloos. De lucht is zwaar van de penetrante geur van verrotting en dood, en de huilende wind weerklinkt met het geluid van doodsangstige kreten.</p>
+<p>De barricade die het stadsplein beschermde, is verwoest; de versplinterde resten ervan worden omringd door een berg lijken van bijna zes voet hoog. Op het plein gillen kinderen, terwijl ouderen en zieken met verstilde afschuw toekijken. </p>
+<p>De fakkels in het westen zijn gedoofd; de verdedigers aan de westkant van de stad zijn gevlucht – of gedood. Er staat nog maar één figuur overeind: Ismark, met gescheurde en bebloede kleren, een langzwaard in zijn linkerhand en een kortzwaard in zijn rechterhand. Twintig voet van hem vandaan staat een zombie met een bleke huid, waarvan het vlees glad en ziekelijk wit is en uitpuilt met bloedrode aderen. Zijn ogen staren dof naar de tenten op het stadsplein daarachter, en terwijl een wolk van roodachtige mist zachtjes uit zijn gapende mond stroomt, zet hij een wankele stap naar voren.</p>
 </div>
 
 ![[Town-Square_4k_NoGrid_30x20_136PPI_Gloom_Fog.jpg]]
@@ -674,9 +674,9 @@ The plague spreader, which begins 120 feet from the center of the town square an
 Shortly after the players defeat the plague spreader, a lone horseman flanked by twelve **zombies** approaches the town square from the west. Read:
 
 <div class="description">
-<p>You hear the sound of hoofsteps squelching through mud. From the shadows on the western road emerges a cloaked man riding an ash-gray horse with dull, shadowed eyes. Behind it trail a dozen shambling undead, flanking the horseman with six to a side.</p>
-<p>The flickering torchlight paints the man’s features in shades of burning orange and red, revealing a tall, lithe figure of dusky complexion, with long, black hair that falls past his neck. A light cloak is draped across his shoulders, its edge rimmed with thick, white fur, and gloves of supple black leather cover his hands. A deep blue tunic trimmed with bronze is visible beneath a layer of tough, yet flexible leather armor, and a curved saber hangs from a sheath at his belt, with a pair of scimitars strapped to his back above it.</p>
-<p>His ears taper sharply upward to elven points, and his dark, brown eyes bear a quiet awareness and a casual, almost predatory gaze as they shift slowly across his surroundings. A long, wicked scar cuts across his forehead, just above where lines have begun to mark his face with age, and his lips are pulled back into a thin, perpetual frown.</p>
+<p>Je hoort het geluid van hoefstappen die door de modder ploeteren. Uit de schaduwen op de westelijke weg komt een in een mantel gehulde man tevoorschijn, rijdend op een asgrijs paard met doffe, donkere ogen. Achter hem slenteren 12 strompelende zombies, die de ruiter aan beide kanten begeleiden. Zes aan elke kant.</p>
+<p>Het flikkerende fakkellicht kleurt de gelaatstrekken van de man in tinten van brandend oranje en rood, en onthult een lange, lenige gestalte met een donkere huidskleur en lang, zwart haar dat tot over zijn nek valt. Over zijn schouders is een lichte mantel gedrapeerd, waarvan de rand is afgezet met dik, wit bont, en zijn handen zijn bedekt met handschoenen van soepel zwart leer. Onder een laag stevig, maar soepel leren harnas is een diepblauwe tuniek te zien, afgezet met brons, en aan zijn riem hangt een gebogen sabel in een schede, met daarboven een paar scimitars op zijn rug vastgebonden.</p>
+<p>Zijn oren lopen scherp naar boven toe toe in elfachtige punten, en zijn donkerbruine ogen stralen een rustige waakzaamheid uit en een nonchalante, bijna roofzuchtige blik terwijl ze langzaam over zijn omgeving glijden. Een lang, gruwelijk litteken snijdt dwars over zijn voorhoofd, net boven de plek waar rimpels zijn gezicht beginnen te tekenen door ouderdom, en zijn lippen zijn teruggetrokken in een dunne, voortdurende frons.</p>
 </div>
 
 This is Rahadin, riding his *phantom steed*. As he comes to a halt at the edge of the town square, he pulls a scroll from his cloak and unfurls. If not interrupted, he begins to read from it, his resonant voice carrying across the square:
@@ -691,8 +691,8 @@ If not prevented, Rahadin searches the crowd, his gaze finally settling on Ismar
 As Rahadin approaches the players (or vice—versa), the players can hear the sounds of his ***deathly choir.*** Read: 
 
 <div class="description">
-<p>It begins with a dull roar—a prickle at the edge of your awareness, like the washing of the ocean against the shore. As the man grows closer, however, the muffled sound grows ever—more insistent, amplifying and building upon itself—until it resolves from a more innocuous sound, almost like waves, into a torrent of screams.</p>
-<p>Your ears fill with a cacophony of a thousand voices, pleading, suffering, dying: a psychic onslaught that crashes against your mind from every direction, leaving little room for thought. The man, however, remains unflinching—seemingly undisturbed by the symphony of screams that surrounds him.</p>
+<p>Het begint met een dof gebrul – een kriebel aan de rand van je aandacht, alsof de zee tegen de kust spoelt. Naarmate de man echter dichterbij komt, wordt het gedempte geluid steeds dringender, wordt het luider en bouwt het zich op – totdat het van een onschuldig geluid, bijna als golven, overgaat in een stortvloed van geschreeuw.</p>
+<p>Je oren worden gevuld met een kakofonie van duizend stemmen, smekend, lijdend, stervend: een psychische storm die vanuit alle richtingen op je geest beukt en weinig ruimte laat om na te denken. De man blijft echter onverstoorbaar – schijnbaar onaangedaan door de symfonie van geschreeuw die hem omringt.</p>
 </div>
 
 The players can notice that any other Barovians within ten feet of Rahadin appear to be similarly disturbed. (Any Barovians beyond the ten—foot radius can’t hear the screams.) When Rahadin speaks, the screams somewhat recede—enough to allow him and others to be heard—but gain a notable accent of fear.

@@ -800,7 +800,7 @@
     {
       "id": "barovia-map",
       "locked": true,
-      "lastAccessed": 1789475133133,
+      "lastAccessed": 1790188014512,
       "markers": [
         {
           "id": "ID_792aa9c94b88",
@@ -1320,6 +1320,22 @@
             2.829828228064052
           ],
           "link": "Werewolf Den",
+          "layer": "%5B%5BBaroviaMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3aba2949dac8",
+          "type": "default",
+          "loc": [
+            4.923346143272605,
+            6.748320420251757
+          ],
           "layer": "%5B%5BBaroviaMap.png%5D%5D",
           "mutable": true,
           "command": false,
