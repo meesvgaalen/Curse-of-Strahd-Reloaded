@@ -675,7 +675,7 @@ Shortly after the players defeat the plague spreader, a lone horseman flanked by
 
 <div class="description">
 <p>Je hoort het geluid van hoefstappen die door de modder ploeteren. Uit de schaduwen op de westelijke weg komt een in een mantel gehulde man tevoorschijn, rijdend op een asgrijs paard met doffe, donkere ogen. Achter hem slenteren 12 strompelende zombies, die de ruiter aan beide kanten begeleiden. Zes aan elke kant.</p>
-<p>Het flikkerende fakkellicht kleurt het gezicht van de man in tinten van brandend oranje en rood, en onthult een lange, lenige gestalte met een donkere huidskleur en lang, zwart haar dat tot over zijn nek valt. Over zijn schouders is een lichte mantel gedrapeerd, waarvan de rand is afgezet met dik, wit bont, en zijn handen zijn bedekt met handschoenen van soepel zwart leer. Onder een laag stevig, maar soepel leren harnas is een diepblauwe tuniek te zien, afgezet met brons, en aan zijn riem hangt een gebogen sabel in een schede, met daarboven een paar scimitars op zijn rug vastgebonden.</p>
+<p>Door het fakkellicht zie je een lenige gestalte met een donkere huidskleur en lang, zwart haar dat tot over zijn nek valt. Over zijn schouders hangt een lichte mantel, waarvan de rand is afgezet met dik, wit bont, en zijn handen zijn bedekt met handschoenen van soepel zwart leer. Onder een laag stevig, maar soepel leren harnas is een diepblauwe tuniek te zien, afgezet met brons, en aan zijn riem hangt een gebogen sabel in een schede, met daarboven een paar scimitars op zijn rug vastgebonden.</p>
 <p>Zijn oren lopen scherp naar boven toe toe in elfachtige punten, en zijn donkerbruine ogen stralen een rustig uit en een nonchalante, bijna roofzuchtige blik terwijl ze langzaam over zijn omgeving glijden. Een lang, gruwelijk litteken snijdt dwars over zijn voorhoofd, net boven de plek waar rimpels zijn gezicht beginnen te tekenen door ouderdom.</p>
 </div>
 
@@ -861,16 +861,16 @@ The players can eavesdrop on this conversation with a successful DC 13 Dexterity
 
 <div class="description">
 <p>The murmurs from the next room are largely indistinct, obscured by the low groans of the old house's timbers. As you strain your ears, however, the siblings' words come slowly into focus.</p>
-<p>Ireena's voice, sharp with indignation, pierces the silence. "You have no right, Ismark. You can't just decide to send me away, like I'm some kind of inconvenience! I'm Father's child as much as you, and our people need me to rebuild. You need me too!"</p>
-<p>Ismark's reply is measured, though laced with an unmistakable note of worry. "The Devil has his sights set on you—and even if we don't believe the legend about women with red hair, others might. Barovia just isn't safe for you anymore."</p>
-<p>A snort of defiance echoes from the other side of the thin wooden partition. "I am no coward, Ismark, and I will not abandon our friends and neighbors in their hour of need."</p>
-<p>There's a pause. Then, Ismark says, quietly, "Gertruda left the village this morning. Alone."</p>
-<p>You hear a ragged breath from Ireena's direction. "<em>Why?</em>"</p>
+<p>Ireena, sharp: "You have no right, Ismark. You can't just decide to send me away, like I'm some kind of inconvenience! I'm Father's child as much as you, and our people need me to rebuild. You need me too!"</p>
+<p>Ismark's, measured and worried: "The Devil has his sights set on you—and even if we don't believe the legend about women with red hair, others might. Barovia just isn't safe for you anymore."</p>
+<p>Ireena, defiant: "I am no coward, Ismark, and I will not abandon our friends and neighbors in their hour of need."</p>
+<p>Pause, Ismark, silently: "Gertruda left the village this morning. Alone."</p>
+<p>Gasp, Ireena: "<em>Why?</em>"</p>
 <p>"Her mother thinks she went to Vallaki—she was convinced that help from Vallaki is the only way to end our suffering," Ismark murmurs.</p>
-<p>There's a long, suffering silence. Then—</p>
-<p>Ismark seems to hesitate, his words slightly fumbled. "I'm not asking you to abandon them. But there are others who need your help. Think about our neighbors who fled for Vallaki. They need guidance, advocacy—and perhaps a leader to bring them home one day."</p>
-<p>There is a long pause. Ireena's voice is low when she finally speaks—barely even audible. "I still don't like it."</p>
-<p>Ismark's response is quiet. "It's your choice. I can't take that away from you. But after losing Father, I can't . . . I can't bear the thought of losing you too."</p>
+<p>Long Silence</p>
+<p>Ismark, hesitant: "I'm not asking you to abandon them. But there are others who need your help. Think about our neighbors who fled for Vallaki. They need guidance, advocacy—and perhaps a leader to bring them home one day."</p>
+<p>Long pause. Ireena, low voice: "I still don't like it."</p>
+<p>Ismark's,quiet: "It's your choice. I can't take that away from you. But after losing Father, I can't . . . I can't bear the thought of losing you too."</p>
 <p>The silence that follows is palpable, weighted with unspoken emotions. Finally, Ireena's voice breaks it, fragile and quiet. "I will go. If only for you. And only if we bury Father first—together."</p>
 </div>
 
